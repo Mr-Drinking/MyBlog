@@ -6,7 +6,7 @@
     "feed_url": "https://mrdrinking.pages.dev/feed.json",
     "user_comment": "",
     "author": {
-        "name": "ShenZehou"
+        "name": "Mr. Drinking"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "Hello World.",
             "content_html": "\n  <p>\n    Hello World.\n  </p>",
             "author": {
-                "name": "ShenZehou"
+                "name": "Mr. Drinking"
             },
             "tags": [
             ],
