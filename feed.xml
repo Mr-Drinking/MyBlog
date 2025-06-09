@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MyBlog</title>
+    <link href="https://example.com/feed.xml" rel="self" />
+    <link href="https://example.com" />
+    <updated>2025-06-09T11:59:50+08:00</updated>
+    <author>
+        <name>ShenZehou</name>
+    </author>
+    <id>https://example.com</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>ShenZehou</name>
+        </author>
+        <link href="https://example.com/test.html"/>
+        <id>https://example.com/test.html</id>
+
+        <updated>2025-06-09T11:59:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello World.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hello World.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
