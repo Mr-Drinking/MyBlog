@@ -3,7 +3,7 @@
     <title>Mr. Drinking’s Blog</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-06-09T11:59:50+08:00</updated>
+    <updated>2025-06-10T12:54:33+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -14,13 +14,13 @@
         <author>
             <name>Mr. Drinking</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/test.html"/>
-        <id>https://mrdrinking.pages.dev/test.html</id>
+        <link href="https://mrdrinking.pages.dev/test-2.html"/>
+        <id>https://mrdrinking.pages.dev/test-2.html</id>
 
-        <updated>2025-06-09T11:59:50+08:00</updated>
+        <updated>2025-06-10T12:54:33+08:00</updated>
             <summary>
                 <![CDATA[
-                    Hello World.
+                    Hello World. 你好，世界。
                 ]]>
             </summary>
         <content type="html">
@@ -28,6 +28,10 @@
                 
   <p>
     Hello World.
+  </p>
+
+  <p>
+    你好，世界。
   </p>
             ]]>
         </content>
