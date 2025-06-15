@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-06-15T15:32:05+08:00</updated>
+    <updated>2025-06-15T15:34:21+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -16,6 +16,11 @@
         </author>
         <link href="https://mrdrinking.pages.dev/ai-bian-lunguan-yushi-jian-shi-jian-yan-zhen-li-de-zui-zhong-wei-yi-biao-zhun/"/>
         <id>https://mrdrinking.pages.dev/ai-bian-lunguan-yushi-jian-shi-jian-yan-zhen-li-de-zui-zhong-wei-yi-biao-zhun/</id>
+            <category term="辩论"/>
+            <category term="科技"/>
+            <category term="哲学"/>
+            <category term="Gemini"/>
+            <category term="AI"/>
 
         <updated>2025-06-15T15:18:47+08:00</updated>
             <summary>
@@ -395,6 +400,7 @@
         <link href="https://mrdrinking.pages.dev/mei-ri-wei-wen-lai-dian-2/"/>
         <id>https://mrdrinking.pages.dev/mei-ri-wei-wen-lai-dian-2/</id>
             <category term="黑色幽默"/>
+            <category term="现代主义"/>
             <category term="文学"/>
 
         <updated>2025-06-14T23:51:11+08:00</updated>

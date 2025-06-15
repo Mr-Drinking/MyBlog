@@ -19,9 +19,14 @@
                 "name": "Mr. Drinking"
             },
             "tags": [
+                   "辩论",
+                   "科技",
+                   "哲学",
+                   "Gemini",
+                   "AI"
             ],
             "date_published": "2025-06-15T15:18:47+08:00",
-            "date_modified": "2025-06-15T15:32:05+08:00"
+            "date_modified": "2025-06-15T15:34:21+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/fa-xian-yu-qin-lue-de-he-jie/",
@@ -49,10 +54,11 @@
             },
             "tags": [
                    "黑色幽默",
+                   "现代主义",
                    "文学"
             ],
             "date_published": "2025-06-14T23:51:11+08:00",
-            "date_modified": "2025-06-15T14:49:37+08:00"
+            "date_modified": "2025-06-15T15:33:57+08:00"
         }
     ]
 }
