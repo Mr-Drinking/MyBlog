@@ -3,12 +3,103 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-06-22T14:30:58+08:00</updated>
+    <updated>2025-07-09T03:59:46+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
     <id>https://mrdrinking.pages.dev</id>
 
+    <entry>
+        <title>VPN 全平台教程</title>
+        <author>
+            <name>Mr. Drinking</name>
+        </author>
+        <link href="https://mrdrinking.pages.dev/vpnquan-ping-tai-jiao-cheng/"/>
+        <id>https://mrdrinking.pages.dev/vpnquan-ping-tai-jiao-cheng/</id>
+
+        <updated>2025-07-09T03:55:11+08:00</updated>
+            <summary>
+                <![CDATA[
+                    作者创作本教程的目的是让更多（他觉得有价值的）人能开阔自己的眼界，提升自己的信息检索能力。因此，本教程的受众应该具备初步数码基础，否则你不适合脱离&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>作者创作本教程的目的是让更多（他觉得有价值的）人能开阔自己的眼界，提升自己的信息检索能力。因此，本教程的受众应该具备初步数码基础，否则你不适合脱离 GFW 的保护。另外，鉴于教程性质，本人将不介绍其中的原理，具体以后有时间可以在写。
+本教程首版作于 2025 年 7 月，鉴于此类教程的特殊之处，作者不保证教程内所述内容长期可用。另外，本教程将不定期更新。</p><h2 id="第一步：准备机场节点">第一步：准备机场节点</h2>
+<h3 id="准备材料">准备材料</h3>
+<ul>
+<li>一台带有正常现代浏览器（如 Chrome、Edge、Firefox、Safari 等，不推荐百度 App、国内安卓手机自带浏览器、360 或 2345 系浏览器等）的任意设备</li>
+<li>正常国内网络</li>
+<li>电子邮箱</li>
+<li>套餐资费（月费数元到数十元不等）</li>
+</ul>
+<h3 id="选择机场节点">选择机场节点</h3>
+<p>可以到 <a href="https://github.com/hwanz/SSR-V2ray-Trojan">GitHub</a> 上去寻找合适的节点，但鉴于中国大陆不稳定的网络环境与此类指南的阅读门槛，作者将推荐三家个人感觉良好的机场服务商，请按需选择。</p><table>
+<thead>
+<tr>
+<th>名字/链接</th>
+<th><a href="https://%E4%B8%80%E5%85%83.com">一元机场</a></th>
+<th><a href="https://ffweb01.flashfox.cc">闪狐云</a></th>
+<th><a href="https://mmyyuyu.me">飞鱼加速</a></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>资费</td>
+<td>12 ¥/年或7 ¥/月</td>
+<td>20 ¥/月</td>
+<td>20 ¥/月</td>
+</tr>
+<tr>
+<td>月流量</td>
+<td>100 GB 或 2048 GB</td>
+<td>120 GB</td>
+<td>150 GB</td>
+</tr>
+<tr>
+<td>速度</td>
+<td>中</td>
+<td>很快</td>
+<td>快</td>
+</tr>
+<tr>
+<td>稳定性</td>
+<td>中</td>
+<td>高</td>
+<td>很高</td>
+</tr>
+<tr>
+<td>节点数量</td>
+<td>少</td>
+<td>很多</td>
+<td>多</td>
+</tr>
+<tr>
+<td>模式</td>
+<td>直连</td>
+<td>专线</td>
+<td>专线</td>
+</tr>
+<tr>
+<td>协议</td>
+<td>Shadowsocks</td>
+<td>Trojan</td>
+<td>Vmess</td>
+</tr>
+<tr>
+<td>适合人群</td>
+<td>手头拮据人群</td>
+<td>高要求人群</td>
+<td>要求均衡人群</td>
+</tr>
+</tbody></table>
+<h3 id="购买套餐">购买套餐</h3>
+<p>新用户请先按照网页提示注册账号（但飞鱼加速则不同，需要先购买服务才能注册账号）。随后购买完套餐后，请将您的订阅链接复制到剪贴板中（具体如何操作可以参考网站内教程，不过一般来说自己摸索一下即可）。</p><h2 id="第二步：使用代理软件启用-vpn">第二步：使用代理软件启用 VPN</h2>
+<h3 id="windows-781-平台">Windows 7/8.1 平台</h3>
+<p>由于平台较老的缘故，我们不得不放弃界面较为现代的 Clash Verge，转而使用自定义程度更高（也更复杂）的 V2RayN 客户端，可到 <a href="https://github.com/2dust/v2rayN">GitHub 链接</a>或蓝奏云（链接统一放在文尾）下载。为了兼容性考虑，还是下载 <code>v2rayN-windows-64-SelfContained.zip </code> 为妙，避免出现不必要的兼容性问题。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>《赤裸的心》（波德莱尔遗作）</title>
         <author>
@@ -27,7 +118,7 @@
             <![CDATA[
                 
   <p>
-    　　最近发现了一篇有趣的作品：波德莱尔的《赤裸的心》（<em>Mon cœur mis à nu</em>）是他的一篇遗作，在 1887 年出版。我没有发现这篇自传的中文译本（不过其的片段有可能被收录于冠以其他名字出版的集子），唯一可能的全译本是 1999 年 11 月中国广播电视出版社出版的《我心赤裸》（豆瓣，<a href="https://book.douban.com/subject/1007208/" target="_blank">https://book.douban.com/subject/1007208/</a>），但无论是淘宝还是微信读书都没有这本书的踪影，而且我有恰好在法语维基文库发现了这部作品（<a href="https://fr.wikisource.org/wiki/Mon_cœur_mis_à_nu" target="_blank">https://fr.wikisource.org/wiki/Mon_cœur_mis_à_nu</a>），因为篇幅不长，于是我就计划用 AI 翻译这篇作品。在尝试了 Gemini 2.5 Pro（06-05 现已转正）（思维过程中 Token 用得不少，翻译结果却一般，它好像在反复核对段落）、DeepSeek-R1（因为 Gemini 的思考问题，反而还是 DeepSeek 出结果速度更快）与 ChatGPT-4o（o3 太贵）后，感觉还是 DeepSeek 的文风更「雅」一些，更契合波德莱尔，于是最终敲定使用 DeepSeek。现在但在将成果挂到此平台时，我发现 Publii 并不支持脚注，因此我只能手动用 Unicode 中提供的上下标来表示，这是示例：「⁽⁰⁾」。
+    　　最近发现了一篇有趣的作品：波德莱尔的《赤裸的心》（<em>Mon cœur mis à nu</em>）是他的一篇遗作，在 1887 年出版。我没有发现这篇自传的中文译本（不过其的片段有可能被收录于冠以其他名字出版的集子），唯一可能的全译本是 1999 年 11 月中国广播电视出版社出版的《我心赤裸》（豆瓣链接），但无论是淘宝还是微信读书都没有这本书的踪影，而且我有恰好在法语维基文库发现了这部作品（<a href="https://fr.wikisource.org/wiki/Mon_cœur_mis_à_nu" target="_blank">https://fr.wikisource.org/wiki/Mon_cœur_mis_à_nu</a>），因为篇幅不长，于是我就计划用 AI 翻译这篇作品。在尝试了 Gemini 2.5 Pro（06-05 现已转正）（思维过程中 Token 用得不少，翻译结果却一般，它好像在反复核对段落）、DeepSeek-R1（因为 Gemini 的思考问题，反而还是 DeepSeek 出结果速度更快）与 ChatGPT-4o（o3 太贵）后，感觉还是 DeepSeek 的文风更「雅」一些，更契合波德莱尔，于是最终敲定使用 DeepSeek。现在但在将成果挂到此平台时，我发现 Publii 并不支持脚注，因此我只能手动用 Unicode 中提供的上下标来表示，这是示例：「⁽⁰⁾」。
   </p>
 <hr class="separator separator--dots" />
 
@@ -474,6 +565,90 @@
 <br>　　沉湎欢愉者——即困于当下之人——于吾观之，如滚坡之徒：欲攫灌木止坠，反连根拔起，共赴深渊。
 <br>
 <br>　　首要者，当为已身之伟人与圣徒。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　民众对美之仇恨。例证：让娜⁽⁶⁾与缪勒夫人。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　要言之，于历史与法兰西民族面前，拿破仑三世之伟绩，唯在证得：首遇之徒只需窃电报局与国立印刷厂，便可宰制大国。
+<br>
+<br>　　愚人信此等事可违民意而行——更愚者信荣光必筑于美德！
+<br>
+<br>　　独裁者无非民众家仆——岂有他哉？虽属该死之职。所谓荣光，不过思想屈从民族愚昧之果。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　爱欲何物？乃出离自我之需。
+<br>
+<br>　　人本崇拜之兽。崇拜即自我牺牲兼自我卖淫。
+<br>
+<br>　　故一切爱皆卖淫。
+<br>
+<br>　　至卖淫者，恰是至高存在——即上帝。因祂是众生至高挚友，是爱之无尽公库。
+  </p>
+
+  <p class="align-center">
+    祷词
+  </p>
+
+  <p>
+    　　毋因我罪惩我母，毋因母故罚我身。——托父灵与玛丽埃特魂于您。——赐我力履日课，成己身之英雄与圣徒。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　「人类不灭之残暴」专章：嗜血之欢・群氓醉血・刑场迷狂［达米安（Damiens）案］。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　人中至伟者唯诗人、祭司、战士：歌咏者・祝圣者・献祭者。余众合该受鞭。
+<br>
+<br>　　当惕民众常识・心灵・灵感・实证。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　吾永诧女子竟准入教堂。彼辈能与神晤言耶？
+<br>
+<br>　　永恒维纳斯（Vénus）——任性・癔症・幻念——实乃魔魅幻形。
+<br>
+<br>　　文青初校样稿日，骄若蒙童初染杨梅疮。
+<br>
+<br>　　勿忘撰「窥天秘术」章：观水·纸牌·掌纹诸技。
+  </p>
+
+  <p class="align-center">
+    *
+  </p>
+
+  <p>
+    　　女子不解灵肉二分。其性简质如兽。——讽者或谓：因其仅存躯壳。
+<br>
+<br>　　「梳妆论」：盥沐之德，饰容之至乐。
   </p>
             ]]>
         </content>
