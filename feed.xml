@@ -3,12 +3,32 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-07-27T01:52:07+08:00</updated>
+    <updated>2025-07-27T02:15:54+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
     <id>https://mrdrinking.pages.dev</id>
 
+    <entry>
+        <title>鄞州中学哲学社～前天～成立了！</title>
+        <author>
+            <name>Mr. Drinking</name>
+        </author>
+        <link href="https://mrdrinking.pages.dev/xi-bao/"/>
+        <id>https://mrdrinking.pages.dev/xi-bao/</id>
+
+        <updated>2025-07-27T02:13:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                    隆重祝贺鄞州中学哲学社于&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>　　隆重祝贺鄞州中学哲学社于 2025 年 7 月 25 日 20:33 正式成立！首任社长为我本人，下届社长目前预定为 Undefined 同志（虽然未经选举，但是应该也没有比他更合适的人选了）。</p><p>　　初始社员有我、Undefined 同志以及其他四位同志。</p><p>　　本社简介为：「鄞州中学哲学社是鄞州中学的人文社科小组，我们在这里怀着开放包容的心态，面对着八方来风。这里不仅能培养思辨能力，还能丰富理论素养。我们的终极目标则是让思考的力量从校园出发，照亮更广阔的人类前路！」。其实本来我们准备了两百多字的介绍，不过因为学校限制，字数只能被限制在 100 字以下。</p><p>　　再次隆重祝贺鄞州中学哲学社的成立！</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>巴迪欧与 Gemini</title>
         <author>
@@ -31,7 +51,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>七月二十四日晚上受到 Undefined 同志的启发，我去和 Gemini 2.5 Pro 交流了一下关于巴迪欧的理论。希望把对话记录发出来能对各位有帮助。</p><hr>
+                <p>七月二十四日晚上受到 Undefined 同志的启发，我去和 Gemini 2.5 Pro 交流了一下关于巴迪欧的理论。希望把对话记录发出来能对各位有所启发。</p><hr>
 <p>用户：介绍巴迪欧的《维特根斯坦的反哲学》。</p><p>AI：好的，非常乐意为您介绍阿兰・巴迪欧（Alain Badiou）这部极具挑衅性和重要性的著作——《维特根斯坦的反哲学》（<em>Wittgenstein’s Anti-Philosophy</em>）。</p><p>这是一部「战斗檄文」式的哲学著作，而不是一篇中立的学术评注。要理解这本书，我们不仅要了解维特根斯坦，更要了解巴迪欧自己的哲学立场。</p><h3 id="核心概念：什么是「反哲学」（antiphilosophy）？">核心概念：什么是「反哲学」（Antiphilosophy）？</h3>
 <p>在介绍本书具体内容前，必须先理解巴迪欧创造的「反哲学」这个核心概念。</p><ul>
 <li><strong>不是简单地反对哲学</strong>：反哲学不是要废除哲学，也不是一种非理性的胡言乱语。恰恰相反，<strong>反哲学家使用哲学的语言、工具和严谨性，从内部来颠覆和瓦解哲学本身的主张。</strong></li>
@@ -575,6 +595,9 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         </author>
         <link href="https://mrdrinking.pages.dev/ma-ke-si-de-shi-jian-wei-wu-zhu-yi-2/"/>
         <id>https://mrdrinking.pages.dev/ma-ke-si-de-shi-jian-wei-wu-zhu-yi-2/</id>
+            <category term="马克思主义"/>
+            <category term="论文"/>
+            <category term="哲学"/>
 
         <updated>2025-07-20T12:47:22+08:00</updated>
             <summary>
@@ -601,6 +624,7 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         </author>
         <link href="https://mrdrinking.pages.dev/lesslesschi-luo-de-xingreatergreater-bo-de-lai-er-yi-zuo/"/>
         <id>https://mrdrinking.pages.dev/lesslesschi-luo-de-xingreatergreater-bo-de-lai-er-yi-zuo/</id>
+            <category term="文学"/>
 
         <updated>2025-06-21T23:03:29+08:00</updated>
             <summary>
