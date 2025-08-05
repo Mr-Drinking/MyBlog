@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-05T14:38:49+08:00</updated>
+    <updated>2025-08-05T14:40:41+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -12,10 +12,11 @@
     <entry>
         <title>Death, Be Not Proud</title>
         <author>
-            <name>Mr. Drinking</name>
+            <name>Dr_Luo</name>
         </author>
         <link href="https://mrdrinking.pages.dev/death-be-not-proud/"/>
         <id>https://mrdrinking.pages.dev/death-be-not-proud/</id>
+            <category term="文学"/>
 
         <updated>2025-08-05T13:51:44+08:00</updated>
             <summary>
