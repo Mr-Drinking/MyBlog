@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-05T15:08:32+08:00</updated>
+    <updated>2025-08-05T15:24:32+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://mrdrinking.pages.dev/death-be-not-proud/"/>
         <id>https://mrdrinking.pages.dev/death-be-not-proud/</id>
             <category term="文学"/>
+            <category term="小说"/>
 
         <updated>2025-08-05T13:51:44+08:00</updated>
             <summary>
@@ -32,7 +33,7 @@
   </p>
 
   <p>
-    　　注：本文中的引号将保持为蝌蚪引号（“”），而不与其他文章一致使用直角引号（「」），由于的标点符号有特殊用途。
+    　　注：鉴于作者特殊设计过的标点符号用法，本文中的引号将保持为蝌蚪引号（“”），而不与其他文章一致使用直角引号（「」）。
   </p>
 <hr class="separator separator--dots" />
 
@@ -54,7 +55,7 @@
   </p>
 
   <p class="align-right">
-    —<em>Death be Not Proud</em>
+    —&nbsp;<em>Death be Not Proud</em>
   </p>
 
     <h3 id="1" class="align-center">
@@ -1766,6 +1767,7 @@
         </author>
         <link href="https://mrdrinking.pages.dev/xi-bao/"/>
         <id>https://mrdrinking.pages.dev/xi-bao/</id>
+            <category term="哲学"/>
 
         <updated>2025-07-27T02:13:28+08:00</updated>
             <summary>
@@ -3272,6 +3274,7 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
             <category term="黑色幽默"/>
             <category term="现代主义"/>
             <category term="文学"/>
+            <category term="小说"/>
 
         <updated>2025-06-14T23:51:11+08:00</updated>
             <summary>
