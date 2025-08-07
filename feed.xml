@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-07T14:29:45+08:00</updated>
+    <updated>2025-08-07T14:44:04+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -20,14 +20,22 @@
             <category term="社团"/>
 
         <updated>2025-08-07T14:29:03+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    如果网络不好可能加载不出来，各位可以长按空白部分下载好&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
-    <figure class="post__image post__image--center">
+    <figure class="post__image post__image--full">
       <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/15/Zhao-Xin-Chuan-DanFang-Ai-3.svg" height="841.92" width="595.2" alt="" >
       
     </figure>
+
+  <p>
+    　　如果网络不好可能加载不出来，各位可以长按空白部分下载好 SVG 文件后再查看。
+  </p>
             ]]>
         </content>
     </entry>

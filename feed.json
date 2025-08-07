@@ -13,7 +13,8 @@
             "id": "https://mrdrinking.pages.dev/yin-zhou-zhong-xue-dian-shi-tai-zhao-xin-chuan-dan/",
             "url": "https://mrdrinking.pages.dev/yin-zhou-zhong-xue-dian-shi-tai-zhao-xin-chuan-dan/",
             "title": "鄞州中学电视台招新传单",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://mrdrinking.pages.dev/media/posts/15/Zhao-Xin-Chuan-DanFang-Ai-3.svg\" height=\"841.92\" width=\"595.2\" alt=\"\" >\n      \n    </figure>",
+            "summary": "如果网络不好可能加载不出来，各位可以长按空白部分下载好&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://mrdrinking.pages.dev/media/posts/15/Zhao-Xin-Chuan-DanFang-Ai-3.svg\" height=\"841.92\" width=\"595.2\" alt=\"\" >\n      \n    </figure>\n\n  <p>\n    　　如果网络不好可能加载不出来，各位可以长按空白部分下载好 SVG 文件后再查看。\n  </p>",
             "author": {
                 "name": "Mr. Drinking"
             },
@@ -22,7 +23,7 @@
                    "社团"
             ],
             "date_published": "2025-08-07T14:29:03+08:00",
-            "date_modified": "2025-08-07T14:29:35+08:00"
+            "date_modified": "2025-08-07T14:44:04+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/death-be-not-proud/",
@@ -38,7 +39,7 @@
                    "小说"
             ],
             "date_published": "2025-08-05T13:51:44+08:00",
-            "date_modified": "2025-08-05T15:54:29+08:00"
+            "date_modified": "2025-08-07T14:43:57+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/ma-ke-si-de-shi-jian-wei-wu-zhu-yi-3/",
