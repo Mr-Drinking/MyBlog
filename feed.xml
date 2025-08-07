@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-07T14:44:04+08:00</updated>
+    <updated>2025-08-07T14:55:40+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Mr. Drinking</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/yin-zhou-zhong-xue-dian-shi-tai-zhao-xin-chuan-dan/"/>
-        <id>https://mrdrinking.pages.dev/yin-zhou-zhong-xue-dian-shi-tai-zhao-xin-chuan-dan/</id>
+        <link href="https://mrdrinking.pages.dev/yinzhouzhongxue-dianshitai-zhaoxinchuandan/"/>
+        <id>https://mrdrinking.pages.dev/yinzhouzhongxue-dianshitai-zhaoxinchuandan/</id>
             <category term="科技"/>
             <category term="社团"/>
 
@@ -28,13 +28,17 @@
         <content type="html">
             <![CDATA[
                 
+  <p>
+    　　
+  </p>
+
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/15/Zhao-Xin-Chuan-DanFang-Ai-3.svg" height="841.92" width="595.2" alt="" >
+      <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/15/Zhaoxin-Chuandan-Fangdai.svg" height="841.92" width="595.2" alt="" >
       
     </figure>
 
   <p>
-    　　如果网络不好可能加载不出来，各位可以长按空白部分下载好 SVG 文件后再查看。
+    如果网络不好可能加载不出来，各位可以长按空白部分下载好 SVG 文件后再查看。
   </p>
             ]]>
         </content>
@@ -1725,8 +1729,8 @@
         <author>
             <name>Undefined</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/ma-ke-si-de-shi-jian-wei-wu-zhu-yi-3/"/>
-        <id>https://mrdrinking.pages.dev/ma-ke-si-de-shi-jian-wei-wu-zhu-yi-3/</id>
+        <link href="https://mrdrinking.pages.dev/makeside-shijianweiwuzhuyi/"/>
+        <id>https://mrdrinking.pages.dev/makeside-shijianweiwuzhuyi/</id>
             <category term="马克思主义"/>
             <category term="论文"/>
             <category term="哲学"/>
@@ -1795,8 +1799,8 @@
         <author>
             <name>Mr. Drinking</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/xi-bao/"/>
-        <id>https://mrdrinking.pages.dev/xi-bao/</id>
+        <link href="https://mrdrinking.pages.dev/yinzhouzhongxue-zhexueshe-qiantianchenglile/"/>
+        <id>https://mrdrinking.pages.dev/yinzhouzhongxue-zhexueshe-qiantianchenglile/</id>
             <category term="社团"/>
             <category term="哲学"/>
 
@@ -1817,8 +1821,8 @@
         <author>
             <name>Mr. Drinking</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/ba-di-ou-yu-gemini/"/>
-        <id>https://mrdrinking.pages.dev/ba-di-ou-yu-gemini/</id>
+        <link href="https://mrdrinking.pages.dev/badiou-yu-gemini/"/>
+        <id>https://mrdrinking.pages.dev/badiou-yu-gemini/</id>
             <category term="马克思主义"/>
             <category term="辩论"/>
             <category term="科技"/>
@@ -2376,8 +2380,8 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         <author>
             <name>Mr. Drinking</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/lesslesschi-luo-de-xingreatergreater-bo-de-lai-er-yi-zuo/"/>
-        <id>https://mrdrinking.pages.dev/lesslesschi-luo-de-xingreatergreater-bo-de-lai-er-yi-zuo/</id>
+        <link href="https://mrdrinking.pages.dev/chiluodexin/"/>
+        <id>https://mrdrinking.pages.dev/chiluodexin/</id>
             <category term="文学"/>
 
         <updated>2025-06-21T23:03:29+08:00</updated>
@@ -2930,8 +2934,8 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         <author>
             <name>Mr. Drinking</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/ai-bian-lunguan-yushi-jian-shi-jian-yan-zhen-li-de-zui-zhong-wei-yi-biao-zhun/"/>
-        <id>https://mrdrinking.pages.dev/ai-bian-lunguan-yushi-jian-shi-jian-yan-zhen-li-de-zui-zhong-wei-yi-biao-zhun/</id>
+        <link href="https://mrdrinking.pages.dev/ai-bianlun-guanyu-shijian/"/>
+        <id>https://mrdrinking.pages.dev/ai-bianlun-guanyu-shijian/</id>
             <category term="辩论"/>
             <category term="科技"/>
             <category term="哲学"/>
@@ -3279,8 +3283,8 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         <author>
             <name>岛池</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/fa-xian-yu-qin-lue-de-he-jie/"/>
-        <id>https://mrdrinking.pages.dev/fa-xian-yu-qin-lue-de-he-jie/</id>
+        <link href="https://mrdrinking.pages.dev/faxian-yu-qinluede-hejie/"/>
+        <id>https://mrdrinking.pages.dev/faxian-yu-qinluede-hejie/</id>
             <category term="文学"/>
 
         <updated>2025-06-15T14:32:46+08:00</updated>
@@ -3300,8 +3304,8 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         <author>
             <name>岛池</name>
         </author>
-        <link href="https://mrdrinking.pages.dev/mei-ri-wei-wen-lai-dian-2/"/>
-        <id>https://mrdrinking.pages.dev/mei-ri-wei-wen-lai-dian-2/</id>
+        <link href="https://mrdrinking.pages.dev/meiri-weiwen-laidian/"/>
+        <id>https://mrdrinking.pages.dev/meiri-weiwen-laidian/</id>
             <category term="黑色幽默"/>
             <category term="现代主义"/>
             <category term="文学"/>
