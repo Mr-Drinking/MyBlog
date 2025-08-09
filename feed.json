@@ -21,10 +21,11 @@
             "tags": [
                    "马克思主义",
                    "社团",
-                   "哲学"
+                   "哲学",
+                   "原创"
             ],
             "date_published": "2025-08-10T02:39:35+08:00",
-            "date_modified": "2025-08-10T03:14:25+08:00"
+            "date_modified": "2025-08-10T03:16:44+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/yinzhouzhongxue-dianshitai-zhaoxinchuandan/",
@@ -40,7 +41,7 @@
                    "社团"
             ],
             "date_published": "2025-08-07T14:29:03+08:00",
-            "date_modified": "2025-08-07T16:27:43+08:00"
+            "date_modified": "2025-08-10T03:16:49+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/death-be-not-proud/",
@@ -53,10 +54,11 @@
             },
             "tags": [
                    "文学",
-                   "小说"
+                   "小说",
+                   "原创"
             ],
             "date_published": "2025-08-05T13:51:44+08:00",
-            "date_modified": "2025-08-07T14:43:57+08:00"
+            "date_modified": "2025-08-10T03:17:00+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/makeside-shijianweiwuzhuyi/",
@@ -70,10 +72,11 @@
             "tags": [
                    "马克思主义",
                    "论文",
-                   "哲学"
+                   "哲学",
+                   "原创"
             ],
             "date_published": "2025-07-30T14:34:34+08:00",
-            "date_modified": "2025-08-07T14:53:20+08:00"
+            "date_modified": "2025-08-10T03:17:06+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/yinzhouzhongxue-zhexueshe-qiantianchenglile/",
@@ -155,10 +158,13 @@
                 "name": "岛池"
             },
             "tags": [
-                   "文学"
+                   "文学",
+                   "散文",
+                   "小说",
+                   "原创"
             ],
             "date_published": "2025-06-15T14:32:46+08:00",
-            "date_modified": "2025-08-07T14:55:24+08:00"
+            "date_modified": "2025-08-10T03:17:47+08:00"
         },
         {
             "id": "https://mrdrinking.pages.dev/meiri-weiwen-laidian/",
@@ -173,10 +179,11 @@
                    "黑色幽默",
                    "现代主义",
                    "文学",
-                   "小说"
+                   "小说",
+                   "原创"
             ],
             "date_published": "2025-06-14T23:51:11+08:00",
-            "date_modified": "2025-08-07T14:55:40+08:00"
+            "date_modified": "2025-08-10T03:17:28+08:00"
         }
     ]
 }

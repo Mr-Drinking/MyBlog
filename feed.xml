@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-10T03:14:25+08:00</updated>
+    <updated>2025-08-10T03:17:47+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -19,6 +19,7 @@
             <category term="马克思主义"/>
             <category term="社团"/>
             <category term="哲学"/>
+            <category term="原创"/>
 
         <updated>2025-08-10T02:39:35+08:00</updated>
             <summary>
@@ -80,6 +81,7 @@
         <id>https://mrdrinking.pages.dev/death-be-not-proud/</id>
             <category term="文学"/>
             <category term="小说"/>
+            <category term="原创"/>
 
         <updated>2025-08-05T13:51:44+08:00</updated>
             <summary>
@@ -1762,6 +1764,7 @@
             <category term="马克思主义"/>
             <category term="论文"/>
             <category term="哲学"/>
+            <category term="原创"/>
 
         <updated>2025-07-30T14:34:34+08:00</updated>
             <summary>
@@ -3314,6 +3317,9 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
         <link href="https://mrdrinking.pages.dev/faxian-yu-qinluede-hejie/"/>
         <id>https://mrdrinking.pages.dev/faxian-yu-qinluede-hejie/</id>
             <category term="文学"/>
+            <category term="散文"/>
+            <category term="小说"/>
+            <category term="原创"/>
 
         <updated>2025-06-15T14:32:46+08:00</updated>
             <summary>
@@ -3338,6 +3344,7 @@ c. <strong>民主性</strong>：任何人，只要学习了规则，都可以理
             <category term="现代主义"/>
             <category term="文学"/>
             <category term="小说"/>
+            <category term="原创"/>
 
         <updated>2025-06-14T23:51:11+08:00</updated>
             <summary>
