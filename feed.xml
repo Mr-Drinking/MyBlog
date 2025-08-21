@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-21T14:40:17+08:00</updated>
+    <updated>2025-08-21T14:46:26+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -16,6 +16,8 @@
         </author>
         <link href="https://mrdrinking.pages.dev/2025-yin-zhou-zhong-xue-zhe-xue-she-ci-lun-zhao-xin/"/>
         <id>https://mrdrinking.pages.dev/2025-yin-zhou-zhong-xue-zhe-xue-she-ci-lun-zhao-xin/</id>
+            <category term="社团"/>
+            <category term="哲学"/>
 
         <updated>2025-08-21T14:28:41+08:00</updated>
             <summary>
@@ -40,8 +42,8 @@
     </figure>
 <hr class="separator separator--dots" />
 
-    <h1 id="zhe-xue-she-bi-shi-ti-musan-xuan-yi" class="align-center">
-      哲学社笔试题目（三选一）
+    <h1 id="bi-shi-ti-musan-xuan-yi" class="align-center">
+      笔试题目（三选一）
     </h1>
 
     <h3 id="gui-ze-yu-zi-youyi-tiaohao-de-gui-ze-hui-rang-ren-geng-zi-you-malessbrgreater">
@@ -49,7 +51,7 @@
     </h3>
 
   <p>
-    对象选择：选一条具体校园规则（手机、着装、迟到、座位、监控等）。<br><br>写作框架：<br><br>　　1.　界定：「规则」「自由」各指什么（可拆为消极自由与积极自由）；<br>　　2.　制度目的与假设：这条规则声称要达成什么？隐含了哪些前提？<br>　　3.　可观察后果：列出正、负面影响（含非预期后果）；<br>　　4.　双方对立面：分别为支持、反对方写出最强理由；<br>　　5.　判准与条件：在何种条件下它提升了自由？何种条件下限制了自由（给出可检验的指标）；<br>　　6.　改进方案：范围、比例、申诉通道、信息透明度、豁免条件等；<br>　　7.　理论锚点：自选，最好有一些。
+    <strong>对象选择：</strong>选一条具体校园规则（手机、着装、迟到、座位、监控等）。<br><br><strong>写作框架：</strong><br><br>　　1．界定：「规则」「自由」各指什么（可拆为消极自由与积极自由）；<br>　　2．制度目的与假设：这条规则声称要达成什么？隐含了哪些前提？<br>　　3．可观察后果：列出正、负面影响（含非预期后果）；<br>　　4．双方对立面：分别为支持、反对方写出最强理由；<br>　　5．判准与条件：在何种条件下它提升了自由？何种条件下限制了自由（给出可检验的指标）；<br>　　6．改进方案：范围、比例、申诉通道、信息透明度、豁免条件等；<br>　　7．理论锚点：自选，最好有一些。
   </p>
 
     <h3 id="ai-yu-zhi-shiyong-ai-xie-zuo-shi-fou-xue-ruo-xue-shu-cheng-shi-yu-ge-ren-neng-li">
@@ -59,13 +61,13 @@
   <p>
     <strong>写作框架：</strong>
 <br>
-<br>　　1.　界定：什么是「学术诚实」「个人能力」「辅助使用」「代替写作」；
-<br>　　2.　风险与收益：效率、可及性、原理、偏见、幻觉、依赖、溯源等；
-<br>　　3.　情境分层：课堂练习、家庭作业、公开发表／竞赛——允许程度各异；
-<br>　　4.　双方对立面：促进能力、公平VS侵蚀能力、结果失真；
-<br>　　5.　边界与标准：可接受、不可接受的边界（标注、引用、过程记录等）；
-<br>　　6.　可执行规范：提交「思路草图」「提示词」「修改痕迹」、口头抽检、随机复述；
-<br>　　7.　理论锚点：自选，最好有一些。&nbsp;
+<br>　　1．界定：什么是「学术诚实」「个人能力」「辅助使用」「代替写作」；
+<br>　　2．风险与收益：效率、可及性、原理、偏见、幻觉、依赖、溯源等；
+<br>　　3．情境分层：课堂练习、家庭作业、公开发表／竞赛——允许程度各异；
+<br>　　4．双方对立面：促进能力、公平VS侵蚀能力、结果失真；
+<br>　　5．边界与标准：可接受、不可接受的边界（标注、引用、过程记录等）；
+<br>　　6．可执行规范：提交「思路草图」「提示词」「修改痕迹」、口头抽检、随机复述；
+<br>　　7．理论锚点：自选，最好有一些。&nbsp;
   </p>
 
     <h3 id="ni-dui-zhe-xue-de-kan-fa-shi-shi-mezhe-xue-dui-ni-yi-wei-zhao-shi-me">
