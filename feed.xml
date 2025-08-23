@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-23T14:39:53+08:00</updated>
+    <updated>2025-08-23T16:12:47+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -36,7 +36,7 @@
 <hr class="separator separator--dots" />
 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/19/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao.png" height="8400" width="6300" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mrdrinking.pages.dev/media/posts/19/responsive/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao-xs.png 640w ,https://mrdrinking.pages.dev/media/posts/19/responsive/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao-sm.png 768w ,https://mrdrinking.pages.dev/media/posts/19/responsive/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao-md.png 1024w ,https://mrdrinking.pages.dev/media/posts/19/responsive/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao-lg.png 1366w ,https://mrdrinking.pages.dev/media/posts/19/responsive/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao-xl.png 1600w ,https://mrdrinking.pages.dev/media/posts/19/responsive/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao-2xl.png 1920w">
+      <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/19/Zhe-Xue-She-Ci-Lun-Zhao-Xin-Hai-Bao.svg" height="false" width="false" alt="" >
       
     </figure>
 <hr class="separator separator--dots" />
@@ -342,12 +342,8 @@
         <content type="html">
             <![CDATA[
                 
-  <p>
-    　　
-  </p>
-
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/15/Zhaoxin-Chuandan-Fangdai.svg" height="841.92" width="595.2" alt="" >
+      <img loading="lazy" src="https://mrdrinking.pages.dev/media/posts/15/Dian-Shi-Tai-Zhao-Xin-Chuan-Dan.svg" height="841.92" width="595.2" alt="" >
       
     </figure>
 
