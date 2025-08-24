@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2025-08-25T01:26:58+08:00</updated>
+    <updated>2025-08-25T02:31:49+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -46,8 +46,8 @@
       详细赛程安排
     </h2>
 
-    <h3 id="di-yi-jie-duanqi-dong-yu-xiao-yuan-zhao-muji-ri-qi-9-yue-7-ri">
-      第一阶段：启动与校园招募（即日起—9 月 7 日）
+    <h3 id="di-yi-jie-duanqi-dong-yu-xiao-yuan-zhao-muji-ri-qi-zhi-9-yue-7-ri">
+      第一阶段：启动与校园招募（即日起至9 月 7 日）
     </h3>
 
   <p>
@@ -147,9 +147,53 @@
       辩论赛制（Academic-1 正式版）
     </h2>
 
+    <h3 id="yisai-zhi-he-xin-li-nian">
+      一、赛制核心理念
+    </h3>
+
   <p>
-    
+    <li><strong>流程：</strong>正反双方各自阐述本方核心观点与论证框架。
+</li><li>时长：每方 4 分钟。</li>
   </p>
+
+    <h3 id="erbi-sai-liu-cheng-yu-huan-jie">
+      二、比赛流程与环节
+    </h3>
+
+    <h4 id="di-yi-huan-jieli-lun-chen-ci">
+      第一环节：立论陈词
+    </h4>
+
+  <ul>
+    <li><strong>流程：</strong>正反双方各自阐述本方核心观点与论证框架。
+</li><li><strong>时长：</strong>每方 4 分钟。</li>
+  </ul>
+
+    <h4 id="di-er-huan-jiezi-you-bian-lun">
+      第二环节：自由辩论
+    </h4>
+
+  <ul>
+    <li>常规时间</li><ul><li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">双方各有 10 分钟的常规发言时间。</span></li><li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">&nbsp;一方发言结束后，另一方有 15 秒的准备时间（用于队内讨论，不可开麦）。</span></li><li><strong style="font-family: var(--editor-font-family); font-size: 1em; background-color: ; font-style: ; font-variant-ligatures: ; font-variant-caps: ;">发言管理：</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">每次发言结束后，发言方需示意主持人暂停计时，否则时间损失由本方承担。</span></li></ul><li>读秒机制</li><ul><li>当一方的 10 分钟常规时间用尽后，自动进入读秒阶段。&nbsp;</li><li>每方有 5 次读秒机会，每次发言时长不得超过 20 秒。&nbsp;</li><li>若单次发言超过 20 秒，则消耗一次读秒机会。五次机会全部用完后，该方将被强制结束发言。&nbsp;</li><li>进入读秒阶段后，要求另一方在 5 秒内迅速接替发言，否则直接扣除一次读秒机会。</li></ul><li>环节总限时</li><ul><li>当双方的常规时间均用尽后，主持人会开启一个 5 分钟的最终倒计时。&nbsp;</li><li>5 分钟结束后，无论双方是否还有剩余的读秒次数，自由辩论环节都将强制结束。</li></ul>
+  </ul>
+
+    <h4 id="di-san-huan-jiezong-jie-chen-ci">
+      第三环节：总结陈词
+    </h4>
+
+  <ul>
+    <li><strong>流程：</strong>双方总结本场辩论的焦点与成果，并升华己方观点。
+</li><li><strong>发言顺序</strong>：反方先行，正方垫后。
+</li><li><strong>时长：</strong>每方 4 分钟。</li>
+  </ul>
+
+    <h3 id="sanping-fen-yu-kou-fen-xi-ze">
+      三、评分与扣分细则
+    </h3>
+
+  <ul>
+    <li>评分细则</li><ul><li><strong>环节权重：</strong>立论、自由辩、结辩三个环节的得分权重为 2 : 5 : 2。&nbsp;</li><li><strong>评委票数：</strong>每位评委持有 5 票，可以根据各环节表现将票数分配给双方。</li><ul><li><strong>公式：</strong>一方得分＝（立论环节权重×所得票数）＋（自由辩环节权重×所得票数）＋（结辩环节权重×所得票数)</li><li><strong>示例：</strong>假设一位评委在立论、自由辩、结辩环节分别给正方投了 3 票、2 票、3 票，则正方从该评委处得到的总分为：（2÷9×3）＋（5÷9×2）＋（2÷9×3）＝（6÷9＋10÷9＋6÷9＝22÷9）≈2.44 分。</li><li><strong>最终得分：</strong>一方的最终得分为所有评委评分的平均值，结果保留两位小数。<br></li></ul></ul><li>扣分细则：独立计算，在常规得分基础上直接扣除。</li><ul><li><strong>人身攻击：</strong>攻击对方辩手或主持人，每次扣 1.00 分。&nbsp;</li><li><strong>超时发言：</strong>每次扣 0.25 分。&nbsp;</li><li><strong>发言间断：</strong>场上超过 30 秒无人发言，扣 0.25 分。&nbsp;</li><li><strong>违规打断：</strong>违规打断对方发言，每次扣 0.25 分。&nbsp;</li><li><strong>多人同时发言：</strong>自由辩环节中，一方有多人同时发言，每次扣 0.25 分。&nbsp;&nbsp;</li><li><strong>其他违规：</strong>由主持人依据情节酌情扣分。</li></ul>
+  </ul>
             ]]>
         </content>
     </entry>
