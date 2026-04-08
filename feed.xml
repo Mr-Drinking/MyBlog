@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2026-04-08T11:26:05+08:00</updated>
+    <updated>2026-04-08T11:31:05+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -27,7 +27,7 @@
             <![CDATA[
                 
   <p>
-    　　时隔 137 天，在 2026 年 4 月 7 日的今天，我能做的校刊的所有工作终于全部结束了。因为实体版刊物仍在印刷中，编辑部决定在此释出<a href="https://wwayz.lanzoum.com/inHoO3mpja4j" target="_blank">电子版</a>以便于各位预览、分享。
+    　　时隔 137 天时间，在 2026 年 4 月 7 日的今天，我能做的校刊的所有工作终于全部结束了。因为实体版刊物仍在印刷中，编辑部决定在此释出<a href="https://wwayz.lanzoum.com/inHoO3mpja4j" target="_blank">电子版</a>以便于各位预览、分享。
   </p>
 
   <p>
@@ -222,7 +222,7 @@
 <li><code>ACTIVATE_VPN</code>：无用户交互激活 VPN（默认模式是 <code>MODE_IGNORED</code>，也就是「忽略」）；</li>
 <li><code>ESTABLISH_VPN_SERVICE</code>：通过 <code>VpnService</code> 建立 VPN 连接。</li>
 </ul>
-<p>　　这就解释了我为什么要引入 <em>App Ops</em>：它能配合 <em>Shizuku</em>，把这些默认不给第三方 App 的权限临时放开。下载链接：<code>github.com/RikkaApps/App-Ops-issue-tracker/releases</code>。</p><p>　　在将其安装至手表上后，请保证 Shizuku 服务正在运行，随后点击右上角的「🔍」，搜索「Clash Meta」即可找到结果。在进入 <em>Clash Meta for Android</em> 的页面之后，请将「ESTABLISH_VPN_SERVICE」<code>ESTABLISH_VPN_SERVICE</code> 与「激活 VPN」<code>ACTIVATE_VPN</code> 都设为「允许」。</p><p>　　设置好 <em>App Ops</em> 后你需要复制好服务商提供的配置 URL（可以利用 <em>Chrome</em>。当然，你想手动输入也可以），随后将 <em>Clash</em> 打开，并点击「配置＞􀅼＞URL」，然后请将剪贴板中的 URL 粘贴到对应的文本框中。至于「名称」，你可以看心情自己选择，不填当然也可以；「自动更新」的话，这个相对更有用些，开启后会自动更新你的代理配置（可以同步剩余流量），你想开的话建议设成 1440 分钟（下同）。在设置好之后，请点击「💾」保存配置。回到首页后点击「已停止」即可成功启动代理，如果想关闭，点击「运行中」就行了。至于更改代理节点选择，请在「代理」页面中自行探索。</p><p>　　3.2．Wear OS 6</p><p>　　但在更新 Wear OS 6 以后，以往的依赖 <code>VpnService</code> 的方案因各种原因失效了（个人认为最大可能是 App Ops 太久未更新，已不太兼容 Android 16 了）。于是，我们只好用 <em>v2RayNG</em>（下载链接：<code>github.com/2dust/v2rayNG/releases</code>）走「仅代理」模式。具体操作方法如下（记得先拷贝订阅链接）：</p><p>　　在进入 <em>v2RayNG</em> 之后请点击左上角的三条横线图标，随后在弹出的菜单中选择「设置」选项。往下滑动菜单，请勾选「允许来自局域网的连接」「订阅分组设置＞自动更新订阅」，并将模式改为「仅代理」。回到主菜单后请按「􀅼＞从剪贴板导入」，随后点击多出来的「import sub」按钮，你就可以选择一个合适的代理节点了。</p><p>　　此外，这条路线依赖 ADB（<em>aShell</em>）写入系统代理。在默认端口（目前为 10808，具体请以实际为准）下的启用代码如下（建议收藏，下同）：</p><pre><code class="language-shell">adb shell settings put global http_proxy 127.0.0.1:10808
+<p>　　这就解释了我为什么要引入 <em>App Ops</em>：它能配合 <em>Shizuku</em>，把这些默认不给第三方 App 的权限临时放开。下载链接：<code>github.com/RikkaApps/App-Ops-issue-tracker/releases</code>。</p><p>　　在将其安装至手表上后，请保证 Shizuku 服务正在运行，随后点击右上角的「🔍」，搜索「Clash Meta」即可找到结果。在进入 <em>Clash Meta for Android</em> 的页面之后，请将「ESTABLISH_VPN_SERVICE」<code>ESTABLISH_VPN_SERVICE</code> 与「激活 VPN」<code>ACTIVATE_VPN</code> 都设为「允许」。</p><p>　　设置好 <em>App Ops</em> 后你需要复制好服务商提供的配置 URL（可以利用 <em>Chrome</em>。当然，你想手动输入也可以），随后将 <em>Clash</em> 打开，并点击「配置＞＋＞URL」，然后请将剪贴板中的 URL 粘贴到对应的文本框中。至于「名称」，你可以看心情自己选择，不填当然也可以；「自动更新」的话，这个相对更有用些，开启后会自动更新你的代理配置（可以同步剩余流量），你想开的话建议设成 1440 分钟（下同）。在设置好之后，请点击「💾」保存配置。回到首页后点击「已停止」即可成功启动代理，如果想关闭，点击「运行中」就行了。至于更改代理节点选择，请在「代理」页面中自行探索。</p><p>　　3.2．Wear OS 6</p><p>　　但在更新 Wear OS 6 以后，以往的依赖 <code>VpnService</code> 的方案因各种原因失效了（个人认为最大可能是 App Ops 太久未更新，已不太兼容 Android 16 了）。于是，我们只好用 <em>v2RayNG</em>（下载链接：<code>github.com/2dust/v2rayNG/releases</code>）走「仅代理」模式。具体操作方法如下（记得先拷贝订阅链接）：</p><p>　　在进入 <em>v2RayNG</em> 之后请点击左上角的三条横线图标，随后在弹出的菜单中选择「设置」选项。往下滑动菜单，请勾选「允许来自局域网的连接」「订阅分组设置＞自动更新订阅」，并将模式改为「仅代理」。回到主菜单后请按「＋＞从剪贴板导入」，随后点击多出来的「import sub」按钮，你就可以选择一个合适的代理节点了。</p><p>　　此外，这条路线依赖 ADB（<em>aShell</em>）写入系统代理。在默认端口（目前为 10808，具体请以实际为准）下的启用代码如下（建议收藏，下同）：</p><pre><code class="language-shell">adb shell settings put global http_proxy 127.0.0.1:10808
 </code></pre>
 <p>　　关闭代码如下（请按顺序执行）：</p><pre><code class="language-shell">adb shell settings put global http_proxy :0
 adb shell settings delete global http_proxy
