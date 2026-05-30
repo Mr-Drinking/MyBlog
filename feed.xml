@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2026-05-28T22:06:13+08:00</updated>
+    <updated>2026-05-30T15:29:09+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -309,7 +309,7 @@ adb shell settings delete global http_proxy
     </h4>
 
   <ul>
-    <li><strong>时间：</strong>即日起至 2026 年 9 月 5 日 12:40 分</li><li><strong>主体</strong><strong>：</strong>我校学生、社团、班级与班级联合体</li>
+    <li><strong>时间</strong>：即日起至 2026 年 9 月 12 日 12:40 分</li><li><strong>主体</strong>：我校学生、社团、班级与班级联合体</li>
   </ul>
 
     <h4 id="ergao-jian-lei-bie">
@@ -317,7 +317,7 @@ adb shell settings delete global http_proxy
     </h4>
 
   <ul>
-    <li><strong>文学・创作类</strong></li><ul><li>体裁包括但不限于：小说、散文、诗歌、随笔、戏剧、小品、评论等</li></ul><li><span style="font-size: 1em;"><strong>人文社科类</strong></span></li><ul><li><span style="font-size: 1em;">方向包括但不限于：哲学、历史、社会学、经济学、心理学、伦理学、逻辑学、政治学等</span></li><li><span style="font-size: 1em;">形式可为：论文、讲稿、随笔、评论、读书札记等</span></li></ul><li><span style="font-size: 1em;"><strong>其他类：</strong>各种符合本刊主题的其他类型稿件</span></li>
+    <li><strong>文学・创作类</strong></li><ul><li>体裁包括但不限于：小说、散文、诗歌、随笔、戏剧、小品、评论等</li></ul><li><span style="font-size: 1em;"><strong>人文社科类</strong></span></li><ul><li><span style="font-size: 1em;">方向包括但不限于：哲学、历史、社会学、经济学、心理学、伦理学、逻辑学、政治学等</span></li><li><span style="font-size: 1em;">形式可为：论文、讲稿、随笔、评论、读书札记等</span></li></ul><li><span style="font-size: 1em;"><strong>其他类</strong>：各种符合本刊主题的其他类型稿件</span></li>
   </ul>
 
     <h4 id="sannei-rong-yao-qiu">
@@ -336,7 +336,7 @@ adb shell settings delete global http_proxy
     </h4>
 
   <ul>
-    <li><strong>字数：</strong>封顶一万五千字，推荐在一万字以内；以连载／专栏形式投稿的不在此限</li><li>投稿时需注明的信息</li><ul><li>个人</li><ul><li>标注进刊：姓名</li><li>可选标注进刊：班级、身份、联系方式（QQ UID／电子邮箱／电话号码）</li></ul><li><span style="font-size: 1em;">社团、班级、班级联合体</span></li><ul><li>标注进刊：姓名</li><li><span style="font-size: 1em;">可选标注进刊：参与者姓名（按需注明，不超过三人）、各自身份、联系方式（同上）</span></li></ul></ul><li><span style="font-size: 1em;">电子稿推荐格式</span><span style="font-size: 1em;">：TXT、Markdown、DOCX、ODF、PDF</span></li><li><span style="font-size: 1em;">图表等文件标明出处（如链接）</span></li>
+    <li><strong>字数</strong>：封顶一万五千字，推荐在一万字以内；以连载／专栏形式投稿的不在此限</li><li>投稿时需注明的信息</li><ul><li>个人</li><ul><li>标注进刊：姓名</li><li>可选标注进刊：班级、身份、联系方式（QID／电子邮箱／电话号码）</li></ul><li><span style="font-size: 1em;">社团、班级、班级联合体</span></li><ul><li>标注进刊：姓名</li><li><span style="font-size: 1em;">可选标注进刊：参与者姓名（按需注明，不超过三人）、各自身份、联系方式（同上）</span></li></ul></ul><li><span style="font-size: 1em;">电子稿推荐格式</span><span style="font-size: 1em;">：TXT、Markdown、DOCX、ODF、PDF</span></li><li><span style="font-size: 1em;">图表等文件标明出处（如链接）</span></li>
   </ul>
 
     <h4 id="wutou-gao-fang-shi">
@@ -346,7 +346,7 @@ adb shell settings delete global http_proxy
   <ul>
     <li>投稿交流 QQ 群组：<code>1070751080</code>
 </li><li>电子邮箱：<code>shenzehou@gmail.com</code>
-</li><li>线下：2419 班沈泽厚、2503 班李洛霄、2513 班叶静轩</li>
+</li><li>线下</li><ul><li>人文社科：2513 张哲源</li><li>创意写作：2503 李洛霄</li><li>创意写作：2513 叶静轩</li><li>不限：2419 沈泽厚</li></ul>
   </ul>
 
     <h4 id="liuyou-xian-lu-yong-qing-xing">
@@ -366,23 +366,20 @@ adb shell settings delete global http_proxy
 </li><li>被录用的投稿主体将获赠纸质样刊与团委发放的录用通知书一份</li>
   </ul>
 
-    <h4 id="baban-quan-yu-shi-yong-shuo-ming">
-      八、版权与使用说明
+    <h4 id="baban-quangong-kai-xin-xi-yu-shi-yong-shuo-ming">
+      八、版权、公开信息与使用说明
     </h4>
 
   <ul>
-    <li><strong>著作权归属：</strong>所有稿件的著作权（包括但不限于署名权、修改权等）将保留在原投稿主体手中
-</li><li><strong>出版权与使用权：</strong>投稿主体同意在不改变作品实质内容的前提下，免费授予编辑部及主办社团对其作品在校内的非独占、非商业性出版权及相关使用权（包括重印、合订本等，不限次数），包括但不限于在学校范畴内进行印刷、再版、电子保存，在网站、公众号、展板等平台展示等</li><li><strong>超出范围的使用：</strong>如需将作品用于校外正式出版、商业性出版或其他超出上述范围的用途，编辑部将另行征得作者本人同意
-</li><li><strong>责任：</strong>投稿主体须保证对稿件享有合法权利，如因版权或法律问题产生纠纷，由其承担相应责任，编辑部有权撤稿并保留追责权利</li><li>本说明最终解释权归本刊编辑部所有，投稿即视为已阅读并同意以上各项说明</li>
+    <li><strong>著作权归属</strong>：投稿作品的著作权由投稿主体或原权利人依法享有。除本说明明确约定的使用许可外，编辑部及主办社团不因接收、编辑、刊登、展示或归档稿件而取得作品著作权。</li><li><strong>投稿主体保证</strong>：投稿主体应保证其对所投稿件及其中使用的文字、图片、照片、音视频、字体、数据等素材享有合法权利，或已取得必要授权；稿件不得侵犯他人的著作权、肖像权、名誉权、隐私权、个人信息权益或其他合法权益。因投稿主体违反上述保证而产生争议、投诉或法律责任的，由投稿主体依法承担相应责任；编辑部有权根据情况暂停使用、下架、替换、匿名化处理相关内容，并保留依法追究责任的权利。</li><li><strong>非专有使用许可</strong>：投稿主体同意，在不转让著作权的前提下，免费授予本刊编辑部及主办社团一项非独占、非商业性、不可转让的使用许可。该许可仅限于本刊编辑、审稿、排版、校对、印刷、发布、展示、存档、宣传及校刊相关活动之必要范围。</li><li><strong>许可使用方式</strong>：前述许可包括但不限于：对稿件进行必要的格式转换、校对、排版、节选、汇编；在纸质校刊、合订本、校内展板、校刊网站、学校或社团公众号、公开线上展示空间及其他与本刊相关的线上线下平台中储存、展示、发布、复制、印刷、汇编、传播和存档。</li><li><strong>公开作品信息</strong>：投稿主体知悉并同意，本刊可为编辑、发布、展示、检索、存档、版本管理和校刊宣传之目的，公开与作品直接相关的必要信息，包括但不限于作品标题、作者笔名、姓名、班级、年级、所属栏目、期数、发布日期、更新记录及其他与作品展示直接相关的信息。联系方式、证件信息、私人通讯信息、投稿沟通记录等非展示所必需的信息，不作为公开作品信息发布，除非另行取得投稿主体同意，或法律法规、学校规定另有要求。</li><li><strong>公开发布后的传播说明</strong>：投稿主体知悉并理解，作品及相关公开信息一经通过本刊纸质刊物、线上页面、展示材料或其他公开渠道发布，可能被读者或第三方以浏览、保存、引用、转发、摘录等方式接触和留存。编辑部可在本刊实际管理范围内对相关内容进行更正、替换、限制展示、停止展示或匿名化处理，但无法保证已经被他人保存、引用、转发、摘录或通过其他方式留存的内容同步删除或完全消除影响。</li><li><strong>编辑修改</strong>：编辑部可在不改变作品核心观点、基本内容和作者署名的前提下，对稿件进行必要的校对、排版、标题调整、格式调整和非实质性删改。涉及实质性修改、重大删节、改写、翻译或可能影响作者原意的调整，原则上应事先征得投稿主体同意。</li><li><strong>发布后版本与持续存档</strong>：稿件一经录用、发布、印刷或归档，已发布版本、纸质刊物、合订本、归档版本、目录信息及相关公开记录中的使用许可持续有效。投稿主体不得仅因个人意愿变化，要求编辑部对已经发布、印刷、归档或被合理引用的内容进行删除、回收或重新分发。但如相关内容存在权利瑕疵、事实错误、个人信息处理争议、明显不当影响，或法律法规、学校规定要求处理的情形，投稿主体可联系编辑部提出更正、补充说明、匿名化、停止后续展示或其他合理处理请求。编辑部将结合事实情况、法律法规、学校规定、刊物存档需要和实际管理能力进行处理。</li><li><strong>超出范围的使用</strong>：如需将作品用于校外正式出版、商业性出版、对外授权、商业宣传、衍生产品制作，或其他明显超出本说明范围的用途，编辑部应另行征得投稿主体同意。</li><li><strong>说明的接受与适用</strong>：投稿主体一旦向编辑部投稿即表示其已阅读、理解并同意本说明。</li><li><strong>本说明的更新</strong>：本说明可能根据刊物运营、学校要求、平台展示方式或实际管理需要进行必要调整。更新后的说明将在本刊相关<a href="https://mrdrinking.pages.dev/ynsx-zgsm-2/" target="_blank">公开页面</a>公布，并以其所载最新版本为准。除法律法规或本刊另有明确说明外，编辑部原则上不对本说明的修改逐一另行通知。对于本说明更新前已经录用、发布、印刷或归档的作品，除法律法规或本说明另有明确约定，或投稿主体与编辑部另行协商一致外，原则上不因本说明更新而当然改变其既有发布、存档和使用状态。</li><li><strong>未尽事宜</strong>：本说明未尽事宜，由编辑部与投稿主体友好协商处理；如本说明与法律法规或双方另行书面约定不一致，以法律法规、学校规章制度或双方另行书面约定为准。</li>
   </ul>
 
-  <p class="align-right">
-    《鄞州中学校园期刊》编辑部
-<br>2026 年 4 月 5 日&nbsp;
+  <p>
+    
   </p>
 
-  <p>
-    　　最后，本说明还可在全校每个班级将收到的两本我刊创刊号纸质版以及<a href="https://464901357.qzone.qq.com" target="_blank">「口袋鄞中」的 QQ 空间</a>上看到，以便分享。
+  <p class="align-right">
+    《鄞年・思叙》编辑部<br>第二版：2026 年 5 月 30 日<br>第一版：2026 年 4 月 5 日<br>
   </p>
             ]]>
         </content>
