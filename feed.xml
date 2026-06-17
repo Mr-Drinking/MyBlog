@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2026-06-15T23:34:09+08:00</updated>
+    <updated>2026-06-18T00:26:53+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -28,8 +28,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>　　最近用 Codex 一通 Vibe Coding，试着做了两个项目，分别是<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits-SC">「Sarasa Ui PropDigits」</a>与<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits">「Windows System Font Modifier」</a>。拢共应该花了 500M Tokens。下面是两个项目的 <code>README.md</code> 的摘录。</p><h3 id="sarasa-ui-propdigits">Sarasa Ui PropDigits</h3>
-<h4 id="为什么要制作它？">为什么要制作它？</h4>
+                <p>　　最近用 Codex 一通 Vibe Coding，试着做了两个项目，分别是<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits-SC">「Sarasa Ui PropDigits」</a>与<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits">「Windows System Font Modifier」</a>。拢共应该花了 500M Tokens。下面是两个项目的 <code>README.md</code> 的摘录。</p><h3 id="更纱黑体-ui-propdigits-sc">更纱黑体 Ui PropDigits SC</h3>
+<figure class="post__image"><img loading="lazy" src="/media/files/Sarasa_Ui_VF_Specimen.svg" alt="Sarasa Ui" data-is-external-image="true"><figcaption>Sarasa Ui</figcaption></figure><h4 id="为什么要制作它？">为什么要制作它？</h4>
 <p>　　曾几何时，我试图使用<a href="https://github.com/be5invis/sarasa-gothic">更纱黑体（Sarasa Gothic）</a>作为 Android 手机的默认字体（因为个人更喜欢 <a href="https://developer.apple.com/cn/fonts/">SF Pro</a> / <a href="https://rsms.me/inter/">Inter</a> 而非 <a href="https://fonts.google.com/specimen/Roboto">Roboto</a>），但由于修改软件只支持一个字体，我需要一个可变字体。但可惜的是，<a href="https://github.com/be5invis/Sarasa-Gothic/issues/314">原版更纱并不支持</a>，我只好自己动手，用 Codex 中的 GPT-5.5 制作了本字体的可变版本；静态版本以及比例宽数字则是源于我对其成为 <a href="https://github.com/unigramdev/unigram">Unigram</a> / Windows 默认字体的需要。</p><h4 id="简介">简介</h4>
 <p>　　这个仓库包含两个 Sarasa Ui SC 派生字体系列：</p><ul>
 <li><strong>Sarasa Ui VF PropDigits SC</strong>：正体和 Italic 可变字体，公开 <code>wght</code> 轴为 <code>200..900</code>。</li>
