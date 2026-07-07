@@ -3,12 +3,88 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2026-06-18T00:26:53+08:00</updated>
+    <updated>2026-07-07T23:43:47+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
     <id>https://mrdrinking.pages.dev</id>
 
+    <entry>
+        <title>《鄞年・思叙》第二期编辑部技术人员招募</title>
+        <author>
+            <name>Mr. Drinking</name>
+        </author>
+        <link href="https://mrdrinking.pages.dev/lesslessyin-nian-si-xugreatergreater-di-er-qi-bian-ji-bu-ji-shu-ren-yuan-zhao-mu/"/>
+        <id>https://mrdrinking.pages.dev/lesslessyin-nian-si-xugreatergreater-di-er-qi-bian-ji-bu-ji-shu-ren-yuan-zhao-mu/</id>
+
+        <updated>2026-07-07T23:43:01+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    在&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>　　在 5 月 18 日我刊第一期纸质版顺利发放之后，创刊号的工作终于告一段落。而在经过一段时间的休整、计划、讨论之后，编辑部启动了下一期的工作进程。</p><p>　　为了适应我部新生代编辑们的实际情况，也为了使我刊能更为有力地弥补创刊号中的不足，我们扩大了编辑部、改变了工作流。而其中自然就包含了对一名乃至数名技术人员的需要。如果你是 25 级与 26 级新生，在阅读本说明后决定加入我们抑或产生了相关意向，请通过 QQ 群号 <code>1079176360</code> 联系我们。</p><h3 id="一、工作内容">一、工作内容</h3>
+<ul>
+<li>封面照片拍摄<ul>
+<li>调色</li>
+<li>设计</li>
+<li>制作</li>
+</ul>
+</li>
+<li>正文<ul>
+<li>内页排版</li>
+<li>目录设计制作</li>
+</ul>
+</li>
+<li>工作流<ul>
+<li>稿件录入</li>
+<li>上传稿件至 GitHub 仓库</li>
+<li>GitHub 仓库管理</li>
+</ul>
+</li>
+</ul>
+<h3 id="二、加分项">二、加分项</h3>
+<ul>
+<li>听说过加一分，实操过加两分，熟练掌握加三分，加粗项在原有基础上额外加一分（下同）：<ul>
+<li><strong>摄影</strong>、<strong>调色</strong>，<strong>Photoshop</strong>、Lightroom、Affinity 及其同类，<strong>平面设计</strong>，<strong>InDesign</strong>、<strong>Illustrator</strong>、<strong>方正书版</strong>、QuantumX、Word、Pages、Google Docs 及其同类，<strong>字体排印（Typography）</strong>，<strong>Markdown</strong>，OCR 相关工具，<strong>GitHub</strong>，ChatGPT、Claude、Gemini、Grok 及其同类，Clash、v2Ray、Shadowrocket、mihomo、Xray、sing-box 及其同类</li>
+</ul>
+</li>
+<li>听说过加一分，使用过加两分，拥有中加三分：<ul>
+<li><strong>像素量能铺满 4961 × 7016（左右）画布的相机</strong>，思源宋体（Noto Serif CJK）、思源黑体（Noto Sans CJK）、方正书宋、汉仪书宋二、汉仪旗黑、苹方、霞鹜文楷、朱雀仿宋、方正恒仿宋、San Francisco、Inter、Helvetica、Garamond、Constantia、Noto Serif、Google 账号、外区 Apple ID、带 GMS 的 Android 手机、2019 年及其后发布的 iPhone、<strong>搭载 Apple Silicon的Mac(Book)</strong>、轻薄型 Windows 笔电、<strong>一颗热爱校刊（至少不讨厌）的心</strong>、<strong>一个宽松且开明的家庭环境</strong></li>
+</ul>
+</li>
+<li>听说过加一分，了解过加两分，详细了解过加三分：<ul>
+<li>字谈字畅播客、The Type 网站、《方寸之间》《中文排版需求》、Siphercase、蔽芪茢_茇䓮_蓲䒤菥、标点挤压、行首尾禁则、CJK 字形差异、Unicode、Ruby、<code>text-autospace</code>、Shadowsocks、Trojan、Hysteria、Reality、AnyTLS</li>
+</ul>
+</li>
+</ul>
+<h3 id="三、福利（依据你的岗位）">三、福利（依据你的岗位）</h3>
+<ul>
+<li>必要的网络工具与工作软件支持（如果你还没有的话）</li>
+<li>必要的设备借用权限，如 Surface Go 3 / MacBook Air (M5)</li>
+<li>上期主编的培训服务</li>
+<li>友好的学习交流环境</li>
+<li><strong>运动会校刊相关</strong><ul>
+<li>携带并在机房使用电子产品权限</li>
+<li>正式工作前的练手机会</li>
+<li>在人员表中出现</li>
+</ul>
+</li>
+<li><strong>正式工作相关</strong><ul>
+<li>午休／晚饭时段的校刊活动室权限</li>
+<li>携带并在活动室使用电子产品权限</li>
+<li>在人员表／前言／后记中出现</li>
+<li>文章／成品抢先体验权限</li>
+<li>一本样刊</li>
+</ul>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>初入 Vibe Coding 成果介绍</title>
         <author>
@@ -912,138 +988,6 @@ adb shell settings delete global http_proxy
 
 　　&nbsp;
 
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>《鄞州中学校园期刊》征稿说明</title>
-        <author>
-            <name>Mr. Drinking</name>
-        </author>
-        <link href="https://mrdrinking.pages.dev/yzzxxyqk-zgsm/"/>
-        <id>https://mrdrinking.pages.dev/yzzxxyqk-zgsm/</id>
-            <category term="社团"/>
-            <category term="校刊"/>
-            <category term="文学"/>
-            <category term="哲学"/>
-
-        <updated>2025-11-20T22:40:26+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    文学社&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="wen-xue-she-andamp-zhe-xue-she-zhu-ban" class="align-center">
-      文学社 &amp; 哲学社主办
-    </h2>
-
-  <p>
-    　　为展示鄞中学子的综合素养，由校团委发起、文学社与哲学社主办的综合性校园期刊——《鄞州中学校园期刊》现正式开始公开征稿。创刊号计划印刷若干百本，每个班级均会收到数份。且若首次反响良好，我刊将在下学期升格为「双月刊」。
-  </p>
-
-    <h4 id="yi-tou-gao-shi-jian-yu-zhu-ti">
-      一、	投稿时间与主体
-    </h4>
-
-  <ul>
-    <li><strong>时间：</strong>即日起至 2025 年 12 月 20 日 12:40 分</li><li><strong>主体：</strong>在校学生、社团、班级与班级联合体<br></li>
-  </ul>
-
-    <h4 id="er-gao-jian-lei-bie">
-      二、	稿件类别
-    </h4>
-
-  <ul>
-    <li><strong>文学・创作类</strong></li><ul><li>体裁包括但不限于：小说、散文、诗歌、随笔、戏剧、小品、评论等
-</li></ul><li><strong>人文社科类</strong>
-</li><ul><li>方向包括但不限于：哲学、历史、社会学、经济学、心理学、伦理学、逻辑学、政治学等
-</li><li>形式可为：论文、讲稿、随笔、评论、读书札记等
-</li></ul><li><strong>其他类：</strong>各种符合本刊主题的其他类型稿件</li>
-  </ul>
-
-    <h4 id="san-nei-rong-yao-qiu">
-      三、	内容要求
-    </h4>
-
-  <ul>
-    <li>坚持社会主义核心价值观，不含有违法违规内容
-</li><li>严禁抄袭、洗稿，所有稿件须为作者原创作品
-</li><li>原则上不接受由生成式 AI 生成的整篇或大部分内容的稿件
-</li><li>辅助使用 AI 的，请自行把握并对内容真实性与原创性负责，并标注「<a href="https://github.com/ErSanSan233/IIIA" target="_blank">AI 参与指数</a>」</li>
-  </ul>
-
-    <h4 id="si-pian-fu-yu-ge-shi-yao-qiu">
-      四、	篇幅与格式要求
-    </h4>
-
-  <ul>
-    <li><strong>字数：</strong>封顶一万五千字，推荐在一万字以内；以连载／专栏形式投稿的不在此限
-</li><li><strong>投稿时需注明的信息</strong>
-</li><ul><li>个人
-</li><ul><li>标注进刊：姓名
-</li><li>可选标注进刊：班级、身份（按需注明，如 XX 班班长、XX 社社长）
-</li><li>不标注进刊：联系方式（QQ UID／电子邮箱／电话号码）
-</li></ul><li>社团、班级、班级联合体
-</li><ul><li>标注进刊：社团名／班级名
-</li><li>可选标注进刊：负责人／作者／参与者姓名（按需注明，不超过三人）、各自身份（按需注明）
-</li><li>不标注进刊：联系方式（至少一个，种类同上）
-</li></ul></ul><li>电子稿推荐格式：TXT、Markdown、DOCX、ODF、PDF
-</li><li>图表等文件标明出处（如链接）</li>
-  </ul>
-
-    <h4 id="wu-tou-gao-fang-shi">
-      五、	投稿方式
-    </h4>
-
-  <ul>
-    <li><strong>QQ 群</strong>（强烈建议所有参与投稿者加入）：<code>1070751080</code></li><li><strong>电子邮箱：</strong><code>2170991495@qq.com</code>（文学・创作类与其他类）、<code>shenzehou@gmail.com</code>（人文社科与其他类）</li><li><strong>线下：</strong>217 班朱涵铄（文学・创作类与其他类）、219 班沈泽厚（人文社科与其他类）</li>
-  </ul>
-
-    <h4 id="liu-you-xian-lu-yong-qing-xingan-you-xian-ji-pai-xu">
-      六、	优先录用情形（按优先级排序）
-    </h4>
-
-  <ul>
-    <li>主题鲜明、完成度高
-</li><li>本期的个人首篇稿件
-</li><li>字数在推荐范围内或便于我刊今后进行连载／专栏化运作
-</li><li>稿件规范明确（注释、参考文献等），信息完整
-</li><li>主办社团成员
-</li><li>采用推荐格式的电子稿提交</li>
-  </ul>
-
-    <h4 id="qi-chu-ban-yu-hui-kui">
-      七、	出版与回馈
-    </h4>
-
-  <ul>
-    <li>发行时间原则上安排在本学期末前后（首考之后），具体日期由校方决定
-</li><li>被录用的投稿主体将获赠纸质样刊与团委发放的录用通知书一份</li>
-  </ul>
-
-    <h4 id="ba-ban-quan-yu-shi-yong-shuo-ming">
-      八、	版权与使用说明
-    </h4>
-
-  <ul>
-    <li><strong>著作权归属：</strong>所有稿件的著作权（包括但不限于署名权、修改权等）将保留在原投稿主体手中
-</li><li><strong>出版权与使用权：</strong>投稿主体同意在不改变作品实质内容的前提下，免费授予我刊及主办社团对其作品在校内的非独占、非商业性出版权及相关使用权（包括重印、合订本等，不限次数），包括但不限于在校内进行印刷、再版、电子保存、在学校网站、公众号、展板等平台展示等
-</li><li><strong>超出范围的使用：</strong>如需将作品用于校外正式出版、商业性出版或其他超出上述范围的用途，我刊将另行征得作者本人同意
-</li><li><strong>责任：</strong>投稿主体须保证对稿件享有合法权利，如因版权或法律问题产生纠纷，由其承担相应责任，本刊有权撤稿并保留追责权利
-</li><li>本说明最终解释权归本刊编辑部所有，投稿即视为已阅读并同意以上各项说明&nbsp;</li>
-  </ul>
-
-  <p class="align-right">
-    《鄞州中学校园期刊》编辑部
-<br>2025 年 11 月 21 日&nbsp;<br>
-  </p>
-
-  <p>
-    　　最后，本说明的副本还将于全校每个班级以及「口袋鄞中」的 <a href="http://464901357.qzone.qq.com" target="_blank">QQ 空间</a>上发布，以便分享。
   </p>
             ]]>
         </content>
