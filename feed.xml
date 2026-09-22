@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2026-09-02T01:31:47+08:00</updated>
+    <updated>2026-09-22T15:03:33+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://mrdrinking.pages.dev/bian-hua-yu-cun-zai-zhi-jianqian-su-ge-la-di-zhe-xue/"/>
         <id>https://mrdrinking.pages.dev/bian-hua-yu-cun-zai-zhi-jianqian-su-ge-la-di-zhe-xue/</id>
+            <category term="论文"/>
             <category term="校刊"/>
             <category term="哲学"/>
             <category term="原创"/>
