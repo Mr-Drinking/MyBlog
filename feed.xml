@@ -3,7 +3,7 @@
     <title>Mr. Drinking 的平台</title>
     <link href="https://mrdrinking.pages.dev/feed.xml" rel="self" />
     <link href="https://mrdrinking.pages.dev" />
-    <updated>2026-10-09T22:21:02+08:00</updated>
+    <updated>2026-10-11T01:00:12+08:00</updated>
     <author>
         <name>Mr. Drinking</name>
     </author>
@@ -298,14 +298,117 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>　　最近用 Codex 一通 Vibe Coding，试着做了两个项目，分别是<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits-SC">「Sarasa Ui PropDigits」</a>与<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits">「Windows System Font Modifier」</a>。拢共应该花了 500M Tokens。下面是两个项目的 <code>README.md</code> 的摘录。</p><h3 id="更纱黑体-ui-propdigits-sc">更纱黑体 Ui PropDigits SC</h3>
+                <p>　　最近用 Codex 一通 Vibe Coding，试着做了两个项目，分别是<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits-SC">「Sarasa Ui PropDigits」</a>与<a href="https://github.com/Mr-Drinking/Sarasa-Ui-PropDigits">「Windows System Font Modifier」</a>。拢共应该花了 500M Tokens。下面是两个项目的 <code>README.md</code> 的摘录。</p><p>　　10 月 11 日更新：现在应该花了 5B Tokens 不到。</p><h3 id="更纱黑体-ui-propdigits-sc">更纱黑体 Ui PropDigits SC</h3>
 <figure class="post__image"><img loading="lazy" src="/media/files/Sarasa_Ui_VF_Specimen.svg" alt="Sarasa Ui" data-is-external-image="true"><figcaption>Sarasa Ui</figcaption></figure><h4 id="为什么要制作它？">为什么要制作它？</h4>
-<p>　　曾几何时，我试图使用<a href="https://github.com/be5invis/sarasa-gothic">更纱黑体（Sarasa Gothic）</a>作为 Android 手机的默认字体（因为个人更喜欢 <a href="https://developer.apple.com/cn/fonts/">SF Pro</a> / <a href="https://rsms.me/inter/">Inter</a> 而非 <a href="https://fonts.google.com/specimen/Roboto">Roboto</a>），但由于修改软件只支持一个字体，我需要一个可变字体。但可惜的是，<a href="https://github.com/be5invis/Sarasa-Gothic/issues/314">原版更纱并不支持</a>，我只好自己动手，用 Codex 中的 GPT-5.5 制作了本字体的可变版本；静态版本以及比例宽数字则是源于我对其成为 <a href="https://github.com/unigramdev/unigram">Unigram</a> / Windows 默认字体的需要。</p><h4 id="简介">简介</h4>
-<p>　　这个仓库包含两个 Sarasa Ui SC 派生字体系列：</p><ul>
-<li><strong>Sarasa Ui VF PropDigits SC</strong>：正体和 Italic 可变字体，公开 <code>wght</code> 轴为 <code>200..900</code>。</li>
-<li><strong>Sarasa Ui PropDigits SC</strong>：从静态 Source Han Sans SC 和 Inter 按 Sarasa 静态片段路径构建的 TTF，包含 hinted 与 unhinted 两套，每套 7 个字重及对应 Italic。</li>
-</ul>
-<p>　　两个系列都把 ASCII 数字 <code>U+0030..U+0039</code> 设为默认变宽数字，并提供 OpenType <code>tnum</code>/<code>pnum</code> 在变宽数字和等宽数字之间切换。VF 与静态 TTF 都按 Inter 相关 <code>calt</code> 行为处理冒号：<code>1:2</code> 会上浮，<code>1:a</code>、<code>a:2</code>、<code>a:b</code> 不会上浮，<code>1::2</code>、<code>1:::a</code>、<code>a:::2</code> 等冒号串遵循 Inter 的 colon-run 规则。</p><h3 id="windows-system-font-modifier">Windows System Font Modifier</h3>
+<p>曾几何时，我试图使用<a href="https://github.com/be5invis/sarasa-gothic">更纱黑体（Sarasa Gothic）</a>作为 Android 手机的默认字体（因为个人更喜欢 <a href="https://developer.apple.com/cn/fonts/">SF Pro</a> / <a href="https://rsms.me/inter/">Inter</a> 而非 <a href="https://fonts.google.com/specimen/Roboto">Roboto</a>），但由于修改软件只支持一个字体，我需要一个可变字体。但可惜的是，<a href="https://github.com/be5invis/Sarasa-Gothic/issues/314">原版更纱并不支持</a>，我只好自己动手，用 Codex 中的 GPT-6 Astra 制作了本字体的可变版本；静态版本以及比例宽数字则是源于我对其成为 <a href="https://github.com/unigramdev/unigram">Unigram</a> / Windows 默认字体的需要。</p><p>而到了 2026 年 8 月，随着上游、各个工具链（如 Node 版本）及我自身需求的更新，我用 GPT-6 Astra 将版本号刷到了 1.0.40（上游更新的是 Mono 版本，与本项目没有直接关系），同时添加了 <code>chws</code> / <code>vchw</code> 这两个 OpenType 特性，以方便在不能使用 CSS 的 <code>text-spacing-trim</code> 的情况下启用标点挤压。</p><h4 id="简介">简介</h4>
+<p>Sarasa Ui PropDigits 是面向中西文混排的更纱 Ui 衍生字体。当前版本为 <strong>v1.0.42</strong>，上游同步到 Sarasa Gothic 1.0.42；2026-10-06 修订版同步更新该 tag 的源码和 Release 发布文件。</p><p>字体菜单中的家族名缩写为 <strong>Sarasa Ui PD &lt;地区&gt;</strong>，可变系列为 <strong>Sarasa Ui VF PD &lt;地区&gt;</strong>，本地化名称同样使用 PD。字重名称不缩写；文件名和 ZIP 名仍保留 PropDigits。</p><p>六地区共 12 个 VF、144 个原生静态 TTF。每地区提供可变、hinted 静态、unhinted 静态三个包，加上三个全地区包，共 21 个 ZIP；不制作 TTC 或 SuperTTC。</p><table>
+<thead>
+<tr>
+<th>地区</th>
+<th>CJK 字形来源</th>
+<th>OS/2 码页范围 1</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>CL</td>
+<td>Source Han K 基底，Shanggu Sans TC 1.028 的传统旧字形及 CJK 全宽破折号</td>
+<td><code>0x8010019F</code></td>
+</tr>
+<tr>
+<td>SC</td>
+<td>Source Han Sans SC</td>
+<td><code>0x8004019F</code></td>
+</tr>
+<tr>
+<td>TC</td>
+<td>Source Han Sans TC</td>
+<td><code>0x8010019F</code></td>
+</tr>
+<tr>
+<td>HC</td>
+<td>Source Han Sans HC</td>
+<td><code>0x8010019F</code></td>
+</tr>
+<tr>
+<td>J</td>
+<td>Source Han Sans J</td>
+<td><code>0x8002019F</code></td>
+</tr>
+<tr>
+<td>K</td>
+<td>Source Han Sans K</td>
+<td><code>0x8028019F</code></td>
+</tr>
+</tbody></table>
+<p>CL 的公开 cmap 和 layout 按 Sarasa Ui CL 的地区边界裁剪；西文标点仍使用 Source Han K。静态字体的 <code>post</code> 使用 format 3，不人为生成持久化字形名称。家族名、样式、实例名和 PostScript 名一起更新，并检查 Windows 的 31 字符限制。</p><h4 id="下载与使用">下载与使用</h4>
+<p>以 SC 为例：</p><table>
+<thead>
+<tr>
+<th>包名</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>Sarasa-Ui-VF-PropDigits-SC-TTF-1.0.42.zip</code></td>
+<td>正体、斜体两个可变 TTF</td>
+</tr>
+<tr>
+<td><code>SarasaUiPropDigitsSC-TTF-1.0.42.zip</code></td>
+<td>六字重正斜体，共 12 个 hinted 静态 TTF</td>
+</tr>
+<tr>
+<td><code>SarasaUiPropDigitsSC-TTF-Unhinted-1.0.42.zip</code></td>
+<td>六字重正斜体，共 12 个 unhinted 静态 TTF</td>
+</tr>
+</tbody></table>
+<p>只接受单个字体文件且支持可变 TTF 的工具，可选对应地区的正体 VF；斜体另有文件。实际字重、语言、文字系统和 OpenType 特性由应用选择。字体本身不包含 Android 或 Windows 的系统字体替换工具。</p><p>从旧版升级后，请在应用字体菜单重新选择带 <code>PD</code> 的家族；文件名沿用 PropDigits，内部家族名已更新。</p><h4 id="字重">字重</h4>
+<table>
+<thead>
+<tr>
+<th>公开坐标</th>
+<th>样式</th>
+<th>Source Han 内部坐标</th>
+<th>Inter 坐标</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>200</td>
+<td>ExtraLight</td>
+<td>250</td>
+<td>200</td>
+</tr>
+<tr>
+<td>300</td>
+<td>Light</td>
+<td>300</td>
+<td>300</td>
+</tr>
+<tr>
+<td>400</td>
+<td>Regular</td>
+<td>400</td>
+<td>400</td>
+</tr>
+<tr>
+<td>600</td>
+<td>SemiBold</td>
+<td>500</td>
+<td>600</td>
+</tr>
+<tr>
+<td>700</td>
+<td>Bold</td>
+<td>700</td>
+<td>700</td>
+</tr>
+<tr>
+<td>900</td>
+<td>Heavy</td>
+<td>900</td>
+<td>900</td>
+</tr>
+</tbody></table>
+<p>350 仅为隐藏 <code>avar</code> 锚点，CJK 与 Inter 均映射到 350，不提供命名实例。构建先应用 Source Han public axis，再重映射 Inter 的 <code>gvar</code> 和 GPOS 变化；顺序不可反转。公开 600 是 Source Han Medium 500 与 Inter SemiBold 600 的组合。</p><h3 id="windows-system-font-modifier">Windows System Font Modifier</h3>
 <h4 id="为什么要打造它">为什么要打造它</h4>
 <p>　　起初，我长期习惯于使用 4K 分辨率的显示器，可在我接触 Vibe Coding 以后，因为各种众所周知的缘故，我被迫拾起了家中那台饱经风霜的 Surface Go 3（屏幕分辨率为 1920 x 1200）作为远程桌面用机。可由于 Windows 设计糟糕的默认字体（同样字号，Chrome 中的思源黑体看上去十分优雅，而输入法中的微软雅黑却是古老的像素风格）与其渲染机制（短暂地试用过 MacType，其实效果不错，但其覆盖面太窄），我只好拿出 Codex 使用 GPT-5.5 做出了此脚本。</p><h4 id="这是什么">这是什么</h4>
 <p>　　这是一套 Python 脚本，能把 Windows 系统界面字体换成你电脑上已经安装好的字体。</p><p>　　这个工具是离线的：<strong>不下载字体，不访问网络，不自带字体文件</strong>。你先在 Windows 里安装好想用的字体，然后用本工具把它生成成 Windows 系统 UI 会识别的 surrogate 字体，再写入相关注册表。</p><h4 id="它能改什么">它能改什么</h4>
