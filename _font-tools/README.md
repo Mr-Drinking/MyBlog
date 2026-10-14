@@ -2,10 +2,10 @@
 
 ## 结论
 
-不是 Safari 的问题，是字体在**所有浏览器**里都没有加载成功，只是你自己的 Windows / Android 设备看不出来。
+眼下字体在**所有浏览器**里都没有加载成功（文件 404），只是你自己的 Windows / Android 设备看不出来。
 
 1. **字体文件不在服务器上。** `assets/css/style.css` 里的 `@font-face` 指向 `assets/dynamic/fonts/sarasauipropdigitssc/*.woff2`，线上这些地址全部返回 404。仓库历史显示：2025-06 到 2026-09 用思源宋体 / 思源黑体时，字体文件从来没进过仓库；2026-09-05 更纱字体传上去了，但 2026-10-09 的 Publii 同步又把它们删了，CSS 却还在引用。
-2. **就算文件在，Chrome 也用不了。** 这两个 WOFF2 解压后分别是 37.9 MB 和 51.6 MB，超过了 Chrome 解码 WOFF2 的 30 MB 上限。在 Chromium 141 里实测：解压后 29.05 MB 的能加载，30.57 MB 起全部报 `OTS parsing error: Failed to convert WOFF 2.0 font to SFNT`。所以 9 月那一个月文件在线时，Chrome 同样用不了。Safari 的 WOFF2 解码由系统完成，代码不公开，这里没法实测它的上限；现在的分片每个解压后都不到 1 MB，不管哪个浏览器都不会碰到这个问题。
+2. **原版文件即使在线，也只有较新的 Chrome 能用。** 这两个 WOFF2 解压后分别是 37.9 MiB 和 51.6 MiB。Chromium 144 及更早的版本解码 WOFF2 有 30 MiB 上限，超过就报 `OTS parsing error: Failed to convert WOFF 2.0 font to SFNT`；从 Chrome 145（2026 年 2 月）开始没有这个问题。实测：141、144 失败，145、146、148、155、158 都能加载。所以自动更新的 Chrome / Edge 没问题（你之前实测可行就是这种情况），但内核早于 145 的 Chromium 系浏览器会失败，国内不少浏览器和 App 内置浏览器的内核都比较旧。Safari 的 WOFF2 由系统解码，这里测不了，请用下面的 `original-test` 页实测。现在的分片每个解压后都不到 1 MB，不管哪个浏览器都碰不到这类上限。
 3. **为什么你那边的 Chrome 看着正常。** 网页字体加载失败后会退回到 `sans-serif`，也就是系统字体。你的 Windows 用 Windows System Font Modifier 把微软雅黑 / Segoe UI 换成了更纱，Android 的系统字体也是更纱，退回的结果和本来想要的字体一模一样。苹果设备换不了系统字体，退回的就是苹方。其他访客在 Windows 上看到的是微软雅黑；在普通 Android 上看到的是思源黑体（Noto Sans CJK），它就是更纱汉字部分的来源，所以几乎看不出差别。
 4. 「标点压缩」靠的是字体里的 `chws` / `halt` 特性，字体没加载，这个功能自然也没有。
 
@@ -25,8 +25,8 @@
 ## 在 Publii 里的操作步骤
 
 1. **主题设置 → Fonts**：把正文字体、标题字体都改回 System UI（系统字体）。这样生成的 CSS 里就不会再有指向 404 文件的 `@font-face`，页面里两个 32 MB 的 `<link rel="preload">` 也会消失。如果 Noto Sans Mono 是你通过主题覆盖（override）加的，也一并去掉。
-2. **复制字体文件**：把本分支里的 `media/files/fonts/` 整个目录复制到
-   `文档/Publii/sites/<站点目录>/input/media/files/fonts/`。
+2. **复制字体文件**：把本分支里 `media/files/fonts/` 下的 `sarasa-ui-pd-sc/` 和 `noto-sans-mono/` 两个目录复制到
+   `文档/Publii/sites/<站点目录>/input/media/files/fonts/`。`original-test/` 只是测试用的，不要复制。
 3. **工具与插件 → Custom HTML → Head**，加入：
    ```html
    <link rel="stylesheet" href="/media/files/fonts/sarasa-ui-pd-sc/sarasa-ui-pd-sc.css">
@@ -52,6 +52,7 @@
 - **测试页**：打开 `/media/files/fonts/sarasa-ui-pd-sc/test.html`。顶部显示 ✅ 才算成功；失败时示例文字会退回到等宽字体，一眼就能看出来。最好用 iPhone / Mac 的 Safari 打开一次。
 - **Chrome**：开发者工具 → Elements → 选中一段正文 → Computed 面板最底部的 Rendered Fonts。成功时显示 `Sarasa Ui VF PropDigits SC — Network resource`；显示 `Local file` 就说明用的是你本机的字体。
 - **Safari**：Web Inspector → Elements → 右侧的 Font 面板。
+- **原版整包字体在 Safari 里能不能用**：打开预览分支上的 `/media/files/fonts/original-test/`。页面会分别显示原版正体、原版斜体和切片版能否加载，以及标点挤压是否生效。
 
 ## 换成新版字体时重新生成
 
@@ -77,3 +78,4 @@ python3 _font-tools/split_webfont.py \
 | `_font-tools/OFL-1.1.txt` | SIL OFL 1.1 许可证正文，生成时会附上字体的版权行写入输出目录 |
 | `media/files/fonts/sarasa-ui-pd-sc/` | 更纱：正体、斜体各 161 个分片，以及 CSS、`manifest.json`、`test.html`、`OFL.txt` |
 | `media/files/fonts/noto-sans-mono/` | Noto Sans Mono：15 个分片 |
+| `media/files/fonts/original-test/` | 原版整包字体（1.0.40.3）和测试页，只用于在各浏览器里测试，不要放进 Publii |

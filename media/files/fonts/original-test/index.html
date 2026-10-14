@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>原版整包字体加载测试</title>
+<link rel="stylesheet" href="../sarasa-ui-pd-sc/sarasa-ui-pd-sc.css">
+<style>
+body{margin:0 auto;max-width:44rem;padding:1rem;font:15px/1.6 -apple-system,system-ui,sans-serif;color:#17181e;background:#fff}
+h1{font-size:1.3rem}
+.case{border:1px solid #ddd;border-radius:8px;padding:.7rem .9rem;margin:.8rem 0}
+.st{font-weight:600}.ok{color:#08793f}.bad{color:#c22}
+.sample{font-size:20px;line-height:1.7;margin:.4rem 0 0;font-family:monospace}
+.meta{color:#666;font-size:13px}
+</style></head><body>
+<h1>原版整包字体加载测试</h1>
+<p class="meta">测试 2026-09-05 部署过的原版字体（1.0.40.3）能否在本浏览器加载，并与切片版对照。原版文件较大，手机上请等下载完成。<br><span id="ua"></span></p>
+
+<div class="case" id="c-reg"><div><b>原版正体</b> · 15.3 MB，解压后 37.9 MiB · <span class="st">准备中…</span></div><p class="sample">「天地玄黄，宇宙洪荒。」（注）The quick brown fox 0123456789</p><div class="meta squeeze"></div></div>
+<div class="case" id="c-ita"><div><b>原版斜体</b> · 16.9 MB，解压后 51.6 MiB · <span class="st">准备中…</span></div><p class="sample" style="font-style:italic">「天地玄黄，宇宙洪荒。」（注）The quick brown fox 0123456789</p><div class="meta squeeze"></div></div>
+<div class="case" id="c-sli"><div><b>切片版（对照）</b> · 按需加载 · <span class="st">准备中…</span></div><p class="sample">「天地玄黄，宇宙洪荒。」（注）The quick brown fox 0123456789</p><div class="meta squeeze"></div></div>
+
+<p class="meta">失败时示例文字会退回等宽字体（monospace）。「标点挤压」一行比较「。」（」三个标点的宽度：不挤压是 3 个全角宽，挤压生效时会更窄。</p>
+
+<script>
+document.getElementById('ua').textContent = navigator.userAgent;
+
+function setStatus(id, ok, text) {
+  var el = document.querySelector('#' + id + ' .st');
+  el.className = 'st ' + (ok ? 'ok' : 'bad');
+  el.textContent = text;
+}
+
+function squeeze(id, family, style) {
+  var s = document.createElement('span');
+  s.style.cssText = 'position:absolute;visibility:hidden;white-space:nowrap;font-size:40px;font-family:' + family + ';font-style:' + style;
+  s.textContent = '。」（';
+  document.body.appendChild(s);
+  var w = s.getBoundingClientRect().width;
+  s.remove();
+  var ems = w / 40;
+  document.querySelector('#' + id + ' .squeeze').textContent =
+    '标点挤压：「。」（」宽 ' + ems.toFixed(2) + ' em，' + (ems < 2.9 ? '挤压生效' : '未挤压（3 em）');
+}
+
+function testOriginal(id, file, style) {
+  var family = 'Orig-' + id;
+  var face = new FontFace(family, 'url("' + file + '") format("woff2")', { weight: '200 900', style: style });
+  document.fonts.add(face);
+  setStatus(id, true, '下载并解码中…');
+  var t0 = performance.now();
+  face.load().then(function () {
+    var sec = ((performance.now() - t0) / 1000).toFixed(1);
+    setStatus(id, true, '✅ 加载成功（' + sec + ' 秒）');
+    document.querySelector('#' + id + ' .sample').style.fontFamily = '"' + family + '", monospace';
+    squeeze(id, '"' + family + '"', style);
+  }, function (err) {
+    var sec = ((performance.now() - t0) / 1000).toFixed(1);
+    setStatus(id, false, '❌ 加载失败（' + sec + ' 秒，' + (err && err.name || 'error') + '）');
+  });
+}
+
+testOriginal('c-reg', 'sarasauipropdigitssc.woff2', 'normal');
+testOriginal('c-ita', 'sarasauipropdigitssc-italic.woff2', 'italic');
+
+(function () {
+  var fam = '"Sarasa Ui PD SC Web"';
+  var t0 = performance.now();
+  document.fonts.load('400 20px ' + fam, '「天地玄黄，宇宙洪荒。」（注）The quick brown fox 0123456789').then(function (faces) {
+    var failed = 0;
+    document.fonts.forEach(function (f) { if (f.family.replace(/"/g, '') === 'Sarasa Ui PD SC Web' && f.status === 'error') failed++; });
+    var ok = faces.length > 0 && failed === 0;
+    setStatus('c-sli', ok, ok ? '✅ 加载成功（' + faces.length + ' 个分片，' + ((performance.now() - t0) / 1000).toFixed(1) + ' 秒）' : '❌ 加载失败');
+    if (ok) {
+      document.querySelector('#c-sli .sample').style.fontFamily = fam + ', monospace';
+      squeeze('c-sli', fam, 'normal');
+    }
+  }, function () { setStatus('c-sli', false, '❌ 加载失败'); });
+})();
+</script>
+</body></html>
