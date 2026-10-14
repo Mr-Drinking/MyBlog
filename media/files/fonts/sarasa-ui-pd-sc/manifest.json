@@ -1,0 +1,1934 @@
+[
+ {
+  "file": "regular-base.woff2",
+  "chars": 471,
+  "glyphs": 563,
+  "bytes": 58172
+ },
+ {
+  "file": "regular-latin-ext.woff2",
+  "chars": 720,
+  "glyphs": 844,
+  "bytes": 79752
+ },
+ {
+  "file": "regular-vietnamese.woff2",
+  "chars": 87,
+  "glyphs": 113,
+  "bytes": 7940
+ },
+ {
+  "file": "regular-greek.woff2",
+  "chars": 105,
+  "glyphs": 138,
+  "bytes": 18832
+ },
+ {
+  "file": "regular-greek-ext.woff2",
+  "chars": 233,
+  "glyphs": 256,
+  "bytes": 12420
+ },
+ {
+  "file": "regular-cyrillic.woff2",
+  "chars": 101,
+  "glyphs": 145,
+  "bytes": 17644
+ },
+ {
+  "file": "regular-cyrillic-ext.woff2",
+  "chars": 151,
+  "glyphs": 218,
+  "bytes": 25244
+ },
+ {
+  "file": "regular-f000.woff2",
+  "chars": 144,
+  "glyphs": 279,
+  "bytes": 62340
+ },
+ {
+  "file": "regular-f001.woff2",
+  "chars": 179,
+  "glyphs": 180,
+  "bytes": 45264
+ },
+ {
+  "file": "regular-f002.woff2",
+  "chars": 182,
+  "glyphs": 183,
+  "bytes": 51224
+ },
+ {
+  "file": "regular-f003.woff2",
+  "chars": 183,
+  "glyphs": 184,
+  "bytes": 52124
+ },
+ {
+  "file": "regular-f004.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 55396
+ },
+ {
+  "file": "regular-f005.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 57252
+ },
+ {
+  "file": "regular-f006.woff2",
+  "chars": 185,
+  "glyphs": 186,
+  "bytes": 58204
+ },
+ {
+  "file": "regular-f007.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 57368
+ },
+ {
+  "file": "regular-f008.woff2",
+  "chars": 187,
+  "glyphs": 188,
+  "bytes": 62064
+ },
+ {
+  "file": "regular-f009.woff2",
+  "chars": 184,
+  "glyphs": 185,
+  "bytes": 60472
+ },
+ {
+  "file": "regular-f010.woff2",
+  "chars": 184,
+  "glyphs": 185,
+  "bytes": 59840
+ },
+ {
+  "file": "regular-f011.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 63676
+ },
+ {
+  "file": "regular-f012.woff2",
+  "chars": 182,
+  "glyphs": 185,
+  "bytes": 61212
+ },
+ {
+  "file": "regular-f013.woff2",
+  "chars": 183,
+  "glyphs": 184,
+  "bytes": 61556
+ },
+ {
+  "file": "regular-f014.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 62008
+ },
+ {
+  "file": "regular-f015.woff2",
+  "chars": 181,
+  "glyphs": 182,
+  "bytes": 60508
+ },
+ {
+  "file": "regular-f016.woff2",
+  "chars": 183,
+  "glyphs": 185,
+  "bytes": 63088
+ },
+ {
+  "file": "regular-f017.woff2",
+  "chars": 176,
+  "glyphs": 179,
+  "bytes": 59976
+ },
+ {
+  "file": "regular-f018.woff2",
+  "chars": 167,
+  "glyphs": 169,
+  "bytes": 57136
+ },
+ {
+  "file": "regular-f019.woff2",
+  "chars": 185,
+  "glyphs": 188,
+  "bytes": 64196
+ },
+ {
+  "file": "regular-f022.woff2",
+  "chars": 124,
+  "glyphs": 144,
+  "bytes": 19736
+ },
+ {
+  "file": "regular-f025.woff2",
+  "chars": 135,
+  "glyphs": 136,
+  "bytes": 11228
+ },
+ {
+  "file": "regular-f026.woff2",
+  "chars": 87,
+  "glyphs": 85,
+  "bytes": 8660
+ },
+ {
+  "file": "regular-f027.woff2",
+  "chars": 144,
+  "glyphs": 182,
+  "bytes": 39344
+ },
+ {
+  "file": "regular-f029.woff2",
+  "chars": 139,
+  "glyphs": 147,
+  "bytes": 32416
+ },
+ {
+  "file": "regular-f030.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 33084
+ },
+ {
+  "file": "regular-f031.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 43292
+ },
+ {
+  "file": "regular-f032.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 46416
+ },
+ {
+  "file": "regular-f033.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 47500
+ },
+ {
+  "file": "regular-f034.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 32760
+ },
+ {
+  "file": "regular-f035.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 41388
+ },
+ {
+  "file": "regular-f036.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 48952
+ },
+ {
+  "file": "regular-f037.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 37236
+ },
+ {
+  "file": "regular-f038.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 48216
+ },
+ {
+  "file": "regular-f039.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 44496
+ },
+ {
+  "file": "regular-f040.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 56120
+ },
+ {
+  "file": "regular-f041.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 39348
+ },
+ {
+  "file": "regular-f042.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 46976
+ },
+ {
+  "file": "regular-f043.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 48100
+ },
+ {
+  "file": "regular-f044.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 42524
+ },
+ {
+  "file": "regular-f045.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 55272
+ },
+ {
+  "file": "regular-f046.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 41616
+ },
+ {
+  "file": "regular-f047.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 52080
+ },
+ {
+  "file": "regular-f048.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 52320
+ },
+ {
+  "file": "regular-f049.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 42104
+ },
+ {
+  "file": "regular-f050.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 41236
+ },
+ {
+  "file": "regular-f051.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 48936
+ },
+ {
+  "file": "regular-f052.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 58352
+ },
+ {
+  "file": "regular-f053.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 45632
+ },
+ {
+  "file": "regular-f054.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 42248
+ },
+ {
+  "file": "regular-f055.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 47664
+ },
+ {
+  "file": "regular-f056.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 57088
+ },
+ {
+  "file": "regular-f057.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 55636
+ },
+ {
+  "file": "regular-f058.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 53344
+ },
+ {
+  "file": "regular-f059.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 48376
+ },
+ {
+  "file": "regular-f060.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 51920
+ },
+ {
+  "file": "regular-f061.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 44176
+ },
+ {
+  "file": "regular-f062.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 52048
+ },
+ {
+  "file": "regular-f063.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 42276
+ },
+ {
+  "file": "regular-f064.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 46448
+ },
+ {
+  "file": "regular-f065.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 52784
+ },
+ {
+  "file": "regular-f066.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 51400
+ },
+ {
+  "file": "regular-f067.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 56428
+ },
+ {
+  "file": "regular-f068.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 61456
+ },
+ {
+  "file": "regular-f069.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 69860
+ },
+ {
+  "file": "regular-f070.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 54348
+ },
+ {
+  "file": "regular-f071.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 47280
+ },
+ {
+  "file": "regular-f072.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 46456
+ },
+ {
+  "file": "regular-f073.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 36420
+ },
+ {
+  "file": "regular-f074.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 46068
+ },
+ {
+  "file": "regular-f075.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 51508
+ },
+ {
+  "file": "regular-f076.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 54144
+ },
+ {
+  "file": "regular-f077.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 53032
+ },
+ {
+  "file": "regular-f078.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 42240
+ },
+ {
+  "file": "regular-f079.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 50872
+ },
+ {
+  "file": "regular-f080.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 47276
+ },
+ {
+  "file": "regular-f081.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 47928
+ },
+ {
+  "file": "regular-f082.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 53012
+ },
+ {
+  "file": "regular-f083.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 47600
+ },
+ {
+  "file": "regular-f084.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 53996
+ },
+ {
+  "file": "regular-f085.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 54028
+ },
+ {
+  "file": "regular-f086.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 50756
+ },
+ {
+  "file": "regular-f087.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 48064
+ },
+ {
+  "file": "regular-f088.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 50736
+ },
+ {
+  "file": "regular-f089.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 58224
+ },
+ {
+  "file": "regular-f090.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 62616
+ },
+ {
+  "file": "regular-f091.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 57276
+ },
+ {
+  "file": "regular-f092.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 65452
+ },
+ {
+  "file": "regular-f093.woff2",
+  "chars": 114,
+  "glyphs": 115,
+  "bytes": 28504
+ },
+ {
+  "file": "regular-f094.woff2",
+  "chars": 144,
+  "glyphs": 145,
+  "bytes": 29628
+ },
+ {
+  "file": "regular-f096.woff2",
+  "chars": 8,
+  "glyphs": 16,
+  "bytes": 4616
+ },
+ {
+  "file": "regular-kana-00.woff2",
+  "chars": 26,
+  "glyphs": 52,
+  "bytes": 12188
+ },
+ {
+  "file": "regular-hangul-00.woff2",
+  "chars": 1000,
+  "glyphs": 2930,
+  "bytes": 274712
+ },
+ {
+  "file": "regular-hangul-01.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 123880
+ },
+ {
+  "file": "regular-hangul-02.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 110704
+ },
+ {
+  "file": "regular-hangul-03.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 116504
+ },
+ {
+  "file": "regular-hangul-04.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 104224
+ },
+ {
+  "file": "regular-hangul-05.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 114740
+ },
+ {
+  "file": "regular-hangul-06.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 127152
+ },
+ {
+  "file": "regular-hangul-07.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 127564
+ },
+ {
+  "file": "regular-hangul-08.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 129268
+ },
+ {
+  "file": "regular-hangul-09.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 122644
+ },
+ {
+  "file": "regular-hangul-10.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 114252
+ },
+ {
+  "file": "regular-hangul-11.woff2",
+  "chars": 524,
+  "glyphs": 767,
+  "bytes": 86248
+ },
+ {
+  "file": "regular-han-00.woff2",
+  "chars": 400,
+  "glyphs": 396,
+  "bytes": 71880
+ },
+ {
+  "file": "regular-han-01.woff2",
+  "chars": 400,
+  "glyphs": 539,
+  "bytes": 119812
+ },
+ {
+  "file": "regular-han-02.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 110216
+ },
+ {
+  "file": "regular-han-03.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 122300
+ },
+ {
+  "file": "regular-han-04.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 130076
+ },
+ {
+  "file": "regular-han-05.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 133608
+ },
+ {
+  "file": "regular-han-06.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 131824
+ },
+ {
+  "file": "regular-han-07.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 149072
+ },
+ {
+  "file": "regular-han-08.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 148468
+ },
+ {
+  "file": "regular-han-09.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 137276
+ },
+ {
+  "file": "regular-han-10.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 134008
+ },
+ {
+  "file": "regular-han-11.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 164036
+ },
+ {
+  "file": "regular-han-12.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 127316
+ },
+ {
+  "file": "regular-han-13.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 152004
+ },
+ {
+  "file": "regular-han-14.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 136704
+ },
+ {
+  "file": "regular-han-15.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 143400
+ },
+ {
+  "file": "regular-han-16.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140856
+ },
+ {
+  "file": "regular-han-17.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 163432
+ },
+ {
+  "file": "regular-han-18.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 150820
+ },
+ {
+  "file": "regular-han-19.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 122732
+ },
+ {
+  "file": "regular-han-20.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 125452
+ },
+ {
+  "file": "regular-han-21.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 134168
+ },
+ {
+  "file": "regular-han-22.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 133068
+ },
+ {
+  "file": "regular-han-23.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 131872
+ },
+ {
+  "file": "regular-han-24.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 133332
+ },
+ {
+  "file": "regular-han-25.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140552
+ },
+ {
+  "file": "regular-han-26.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 153392
+ },
+ {
+  "file": "regular-han-27.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 141212
+ },
+ {
+  "file": "regular-han-28.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 131712
+ },
+ {
+  "file": "regular-han-29.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 169044
+ },
+ {
+  "file": "regular-han-30.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 133000
+ },
+ {
+  "file": "regular-han-31.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 142060
+ },
+ {
+  "file": "regular-han-32.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 141324
+ },
+ {
+  "file": "regular-han-33.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 137668
+ },
+ {
+  "file": "regular-han-34.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 131356
+ },
+ {
+  "file": "regular-han-35.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 131864
+ },
+ {
+  "file": "regular-han-36.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 146040
+ },
+ {
+  "file": "regular-han-37.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 143164
+ },
+ {
+  "file": "regular-han-38.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 156572
+ },
+ {
+  "file": "regular-han-39.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 166648
+ },
+ {
+  "file": "regular-han-40.woff2",
+  "chars": 400,
+  "glyphs": 396,
+  "bytes": 150060
+ },
+ {
+  "file": "regular-han-41.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 121992
+ },
+ {
+  "file": "regular-han-42.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 145760
+ },
+ {
+  "file": "regular-han-43.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 144920
+ },
+ {
+  "file": "regular-han-44.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 146560
+ },
+ {
+  "file": "regular-han-45.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 157112
+ },
+ {
+  "file": "regular-han-46.woff2",
+  "chars": 400,
+  "glyphs": 400,
+  "bytes": 157668
+ },
+ {
+  "file": "regular-han-47.woff2",
+  "chars": 87,
+  "glyphs": 88,
+  "bytes": 36744
+ },
+ {
+  "file": "regular-misc-00.woff2",
+  "chars": 402,
+  "glyphs": 468,
+  "bytes": 49564
+ },
+ {
+  "file": "regular-misc-01.woff2",
+  "chars": 334,
+  "glyphs": 397,
+  "bytes": 56168
+ },
+ {
+  "file": "italic-base.woff2",
+  "chars": 471,
+  "glyphs": 563,
+  "bytes": 62984
+ },
+ {
+  "file": "italic-latin-ext.woff2",
+  "chars": 720,
+  "glyphs": 841,
+  "bytes": 85780
+ },
+ {
+  "file": "italic-vietnamese.woff2",
+  "chars": 87,
+  "glyphs": 113,
+  "bytes": 8300
+ },
+ {
+  "file": "italic-greek.woff2",
+  "chars": 105,
+  "glyphs": 138,
+  "bytes": 20304
+ },
+ {
+  "file": "italic-greek-ext.woff2",
+  "chars": 233,
+  "glyphs": 256,
+  "bytes": 13216
+ },
+ {
+  "file": "italic-cyrillic.woff2",
+  "chars": 101,
+  "glyphs": 145,
+  "bytes": 18560
+ },
+ {
+  "file": "italic-cyrillic-ext.woff2",
+  "chars": 151,
+  "glyphs": 218,
+  "bytes": 26908
+ },
+ {
+  "file": "italic-f000.woff2",
+  "chars": 144,
+  "glyphs": 279,
+  "bytes": 65476
+ },
+ {
+  "file": "italic-f001.woff2",
+  "chars": 179,
+  "glyphs": 180,
+  "bytes": 47692
+ },
+ {
+  "file": "italic-f002.woff2",
+  "chars": 182,
+  "glyphs": 183,
+  "bytes": 53880
+ },
+ {
+  "file": "italic-f003.woff2",
+  "chars": 183,
+  "glyphs": 184,
+  "bytes": 55084
+ },
+ {
+  "file": "italic-f004.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 58388
+ },
+ {
+  "file": "italic-f005.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 60380
+ },
+ {
+  "file": "italic-f006.woff2",
+  "chars": 185,
+  "glyphs": 186,
+  "bytes": 60856
+ },
+ {
+  "file": "italic-f007.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 60768
+ },
+ {
+  "file": "italic-f008.woff2",
+  "chars": 187,
+  "glyphs": 188,
+  "bytes": 65156
+ },
+ {
+  "file": "italic-f009.woff2",
+  "chars": 184,
+  "glyphs": 185,
+  "bytes": 63540
+ },
+ {
+  "file": "italic-f010.woff2",
+  "chars": 184,
+  "glyphs": 185,
+  "bytes": 63140
+ },
+ {
+  "file": "italic-f011.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 66992
+ },
+ {
+  "file": "italic-f012.woff2",
+  "chars": 182,
+  "glyphs": 185,
+  "bytes": 64456
+ },
+ {
+  "file": "italic-f013.woff2",
+  "chars": 183,
+  "glyphs": 184,
+  "bytes": 65092
+ },
+ {
+  "file": "italic-f014.woff2",
+  "chars": 186,
+  "glyphs": 187,
+  "bytes": 65472
+ },
+ {
+  "file": "italic-f015.woff2",
+  "chars": 181,
+  "glyphs": 182,
+  "bytes": 63940
+ },
+ {
+  "file": "italic-f016.woff2",
+  "chars": 183,
+  "glyphs": 185,
+  "bytes": 66564
+ },
+ {
+  "file": "italic-f017.woff2",
+  "chars": 176,
+  "glyphs": 179,
+  "bytes": 63428
+ },
+ {
+  "file": "italic-f018.woff2",
+  "chars": 167,
+  "glyphs": 169,
+  "bytes": 60404
+ },
+ {
+  "file": "italic-f019.woff2",
+  "chars": 185,
+  "glyphs": 188,
+  "bytes": 67644
+ },
+ {
+  "file": "italic-f022.woff2",
+  "chars": 124,
+  "glyphs": 145,
+  "bytes": 21256
+ },
+ {
+  "file": "italic-f025.woff2",
+  "chars": 135,
+  "glyphs": 136,
+  "bytes": 12112
+ },
+ {
+  "file": "italic-f026.woff2",
+  "chars": 87,
+  "glyphs": 85,
+  "bytes": 9380
+ },
+ {
+  "file": "italic-f027.woff2",
+  "chars": 144,
+  "glyphs": 182,
+  "bytes": 41180
+ },
+ {
+  "file": "italic-f029.woff2",
+  "chars": 139,
+  "glyphs": 147,
+  "bytes": 34184
+ },
+ {
+  "file": "italic-f030.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 34820
+ },
+ {
+  "file": "italic-f031.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 45624
+ },
+ {
+  "file": "italic-f032.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 48468
+ },
+ {
+  "file": "italic-f033.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 50124
+ },
+ {
+  "file": "italic-f034.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 35444
+ },
+ {
+  "file": "italic-f035.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 44496
+ },
+ {
+  "file": "italic-f036.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 52548
+ },
+ {
+  "file": "italic-f037.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 39888
+ },
+ {
+  "file": "italic-f038.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 51140
+ },
+ {
+  "file": "italic-f039.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 46468
+ },
+ {
+  "file": "italic-f040.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 58900
+ },
+ {
+  "file": "italic-f041.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 41952
+ },
+ {
+  "file": "italic-f042.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 49916
+ },
+ {
+  "file": "italic-f043.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 50884
+ },
+ {
+  "file": "italic-f044.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 44324
+ },
+ {
+  "file": "italic-f045.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 57780
+ },
+ {
+  "file": "italic-f046.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 44016
+ },
+ {
+  "file": "italic-f047.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 55184
+ },
+ {
+  "file": "italic-f048.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 55428
+ },
+ {
+  "file": "italic-f049.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 44896
+ },
+ {
+  "file": "italic-f050.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 43388
+ },
+ {
+  "file": "italic-f051.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 51720
+ },
+ {
+  "file": "italic-f052.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 61428
+ },
+ {
+  "file": "italic-f053.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 47960
+ },
+ {
+  "file": "italic-f054.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 43904
+ },
+ {
+  "file": "italic-f055.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 49856
+ },
+ {
+  "file": "italic-f056.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 59552
+ },
+ {
+  "file": "italic-f057.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 58416
+ },
+ {
+  "file": "italic-f058.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 55720
+ },
+ {
+  "file": "italic-f059.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 50900
+ },
+ {
+  "file": "italic-f060.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 54696
+ },
+ {
+  "file": "italic-f061.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 47148
+ },
+ {
+  "file": "italic-f062.woff2",
+  "chars": 139,
+  "glyphs": 140,
+  "bytes": 55124
+ },
+ {
+  "file": "italic-f063.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 45444
+ },
+ {
+  "file": "italic-f064.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 49336
+ },
+ {
+  "file": "italic-f065.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 55332
+ },
+ {
+  "file": "italic-f066.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 53620
+ },
+ {
+  "file": "italic-f067.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 59028
+ },
+ {
+  "file": "italic-f068.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 63880
+ },
+ {
+  "file": "italic-f069.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 72784
+ },
+ {
+  "file": "italic-f070.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 57260
+ },
+ {
+  "file": "italic-f071.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 50108
+ },
+ {
+  "file": "italic-f072.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 49032
+ },
+ {
+  "file": "italic-f073.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 38720
+ },
+ {
+  "file": "italic-f074.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 48840
+ },
+ {
+  "file": "italic-f075.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 54728
+ },
+ {
+  "file": "italic-f076.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 57636
+ },
+ {
+  "file": "italic-f077.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 55972
+ },
+ {
+  "file": "italic-f078.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 45252
+ },
+ {
+  "file": "italic-f079.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 53476
+ },
+ {
+  "file": "italic-f080.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 50044
+ },
+ {
+  "file": "italic-f081.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 51164
+ },
+ {
+  "file": "italic-f082.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 55716
+ },
+ {
+  "file": "italic-f083.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 50108
+ },
+ {
+  "file": "italic-f084.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 56656
+ },
+ {
+  "file": "italic-f085.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 56748
+ },
+ {
+  "file": "italic-f086.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 53388
+ },
+ {
+  "file": "italic-f087.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 51108
+ },
+ {
+  "file": "italic-f088.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 54064
+ },
+ {
+  "file": "italic-f089.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 60984
+ },
+ {
+  "file": "italic-f090.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 65928
+ },
+ {
+  "file": "italic-f091.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 60352
+ },
+ {
+  "file": "italic-f092.woff2",
+  "chars": 138,
+  "glyphs": 139,
+  "bytes": 68480
+ },
+ {
+  "file": "italic-f093.woff2",
+  "chars": 114,
+  "glyphs": 115,
+  "bytes": 30872
+ },
+ {
+  "file": "italic-f094.woff2",
+  "chars": 144,
+  "glyphs": 145,
+  "bytes": 31420
+ },
+ {
+  "file": "italic-f096.woff2",
+  "chars": 8,
+  "glyphs": 16,
+  "bytes": 4976
+ },
+ {
+  "file": "italic-kana-00.woff2",
+  "chars": 26,
+  "glyphs": 52,
+  "bytes": 12880
+ },
+ {
+  "file": "italic-hangul-00.woff2",
+  "chars": 1000,
+  "glyphs": 2930,
+  "bytes": 310436
+ },
+ {
+  "file": "italic-hangul-01.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 142392
+ },
+ {
+  "file": "italic-hangul-02.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 128160
+ },
+ {
+  "file": "italic-hangul-03.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 133652
+ },
+ {
+  "file": "italic-hangul-04.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 120192
+ },
+ {
+  "file": "italic-hangul-05.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 132080
+ },
+ {
+  "file": "italic-hangul-06.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 146924
+ },
+ {
+  "file": "italic-hangul-07.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 146916
+ },
+ {
+  "file": "italic-hangul-08.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 149944
+ },
+ {
+  "file": "italic-hangul-09.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 140940
+ },
+ {
+  "file": "italic-hangul-10.woff2",
+  "chars": 1000,
+  "glyphs": 1001,
+  "bytes": 132544
+ },
+ {
+  "file": "italic-hangul-11.woff2",
+  "chars": 524,
+  "glyphs": 767,
+  "bytes": 101044
+ },
+ {
+  "file": "italic-han-00.woff2",
+  "chars": 400,
+  "glyphs": 396,
+  "bytes": 76588
+ },
+ {
+  "file": "italic-han-01.woff2",
+  "chars": 400,
+  "glyphs": 539,
+  "bytes": 129060
+ },
+ {
+  "file": "italic-han-02.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 116884
+ },
+ {
+  "file": "italic-han-03.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 130424
+ },
+ {
+  "file": "italic-han-04.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 137508
+ },
+ {
+  "file": "italic-han-05.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 139976
+ },
+ {
+  "file": "italic-han-06.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140028
+ },
+ {
+  "file": "italic-han-07.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 156624
+ },
+ {
+  "file": "italic-han-08.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 155736
+ },
+ {
+  "file": "italic-han-09.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 145276
+ },
+ {
+  "file": "italic-han-10.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 142224
+ },
+ {
+  "file": "italic-han-11.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 171508
+ },
+ {
+  "file": "italic-han-12.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 136316
+ },
+ {
+  "file": "italic-han-13.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 160584
+ },
+ {
+  "file": "italic-han-14.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 145636
+ },
+ {
+  "file": "italic-han-15.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 152104
+ },
+ {
+  "file": "italic-han-16.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 150612
+ },
+ {
+  "file": "italic-han-17.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 172756
+ },
+ {
+  "file": "italic-han-18.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 159152
+ },
+ {
+  "file": "italic-han-19.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 130576
+ },
+ {
+  "file": "italic-han-20.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 134856
+ },
+ {
+  "file": "italic-han-21.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 141872
+ },
+ {
+  "file": "italic-han-22.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 139992
+ },
+ {
+  "file": "italic-han-23.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140680
+ },
+ {
+  "file": "italic-han-24.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140884
+ },
+ {
+  "file": "italic-han-25.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 147688
+ },
+ {
+  "file": "italic-han-26.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 161008
+ },
+ {
+  "file": "italic-han-27.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 149660
+ },
+ {
+  "file": "italic-han-28.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140092
+ },
+ {
+  "file": "italic-han-29.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 177376
+ },
+ {
+  "file": "italic-han-30.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 140908
+ },
+ {
+  "file": "italic-han-31.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 150616
+ },
+ {
+  "file": "italic-han-32.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 150284
+ },
+ {
+  "file": "italic-han-33.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 147572
+ },
+ {
+  "file": "italic-han-34.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 139216
+ },
+ {
+  "file": "italic-han-35.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 139704
+ },
+ {
+  "file": "italic-han-36.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 153940
+ },
+ {
+  "file": "italic-han-37.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 152996
+ },
+ {
+  "file": "italic-han-38.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 164856
+ },
+ {
+  "file": "italic-han-39.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 176396
+ },
+ {
+  "file": "italic-han-40.woff2",
+  "chars": 400,
+  "glyphs": 396,
+  "bytes": 159476
+ },
+ {
+  "file": "italic-han-41.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 130072
+ },
+ {
+  "file": "italic-han-42.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 154292
+ },
+ {
+  "file": "italic-han-43.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 153540
+ },
+ {
+  "file": "italic-han-44.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 155052
+ },
+ {
+  "file": "italic-han-45.woff2",
+  "chars": 400,
+  "glyphs": 401,
+  "bytes": 166140
+ },
+ {
+  "file": "italic-han-46.woff2",
+  "chars": 400,
+  "glyphs": 400,
+  "bytes": 166544
+ },
+ {
+  "file": "italic-han-47.woff2",
+  "chars": 87,
+  "glyphs": 88,
+  "bytes": 38672
+ },
+ {
+  "file": "italic-misc-00.woff2",
+  "chars": 402,
+  "glyphs": 468,
+  "bytes": 53140
+ },
+ {
+  "file": "italic-misc-01.woff2",
+  "chars": 334,
+  "glyphs": 397,
+  "bytes": 59412
+ }
+]

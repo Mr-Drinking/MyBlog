@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Web font test — Sarasa Ui PD SC Web</title>
+<link rel="stylesheet" href="sarasa-ui-pd-sc.css">
+<style>
+body{margin:0 auto;max-width:42rem;padding:1rem;line-height:1.7;font-size:1.1rem;color:#17181e;background:#fff}
+.t{font-family:"Sarasa Ui PD SC Web",monospace}
+#status{font:14px/1.5 -apple-system,system-ui,sans-serif;padding:.6rem .8rem;border-radius:6px;background:#eee}
+#status.ok{background:#d9f5e5}#status.bad{background:#fde2e2}
+</style></head><body>
+<div id="status">检测中…</div>
+<p style="font:13px -apple-system,system-ui,sans-serif;color:#666">对照：未加载成功时下面的文字会退回到等宽字体（monospace），一眼就能看出来。<br><span id="ua"></span></p>
+<div class="t">
+<h2 style="font-variation-settings:'wght' 700">欢迎来到 Mr. Drinking 的平台！</h2>
+<p>「天地玄黄，宇宙洪荒。」这里是用来发布我们想发布的东西的平台（内容涵盖哲学、文学、政治学、历史学、科技数码等等）——如果其中有文章让你觉得实用乃至惊艳，那我们的目的就达到了……</p>
+<p>The quick brown fox jumps over the lazy dog. 0123456789 《鄞年・思叙》2026 年版</p>
+<p style="font-variation-settings:'wght' 500">字重 500：标签、菜单。</p>
+<p><b style="font-variation-settings:'wght' 700">字重 700：粗体。</b></p>
+<p style="font-style:italic">斜体：Italic text 与中文斜体混排。</p>
+<p>生僻字：龘靐齉爩鱻麤</p>
+</div>
+<script>
+document.getElementById('ua').textContent = navigator.userAgent;
+var fam = "Sarasa Ui PD SC Web";
+var samples = ["永", "，。「」", "Aa", "龘"];
+Promise.all(samples.map(function (s) { return document.fonts.load('400 16px "' + fam + '"', s); }))
+  .catch(function () {})
+  .then(function () { return document.fonts.ready; })
+  .then(function () {
+    var faces = [], loaded = 0, failed = 0;
+    document.fonts.forEach(function (f) {
+      if (f.family.replace(/"/g, '') !== fam) return;
+      faces.push(f);
+      if (f.status === 'loaded') loaded++;
+      if (f.status === 'error') failed++;
+    });
+    var el = document.getElementById('status');
+    var ok = loaded > 0 && failed === 0;
+    el.className = ok ? 'ok' : 'bad';
+    el.textContent = (ok ? '✅ 网页字体加载成功' : '❌ 网页字体加载失败') +
+      '：共 ' + faces.length + ' 个分片，已加载 ' + loaded + ' 个（本页用到的），失败 ' + failed + ' 个。';
+  });
+</script>
+</body></html>

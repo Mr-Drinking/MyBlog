@@ -1,0 +1,92 @@
+[
+ {
+  "file": "regular-base.woff2",
+  "chars": 323,
+  "glyphs": 329,
+  "bytes": 27908
+ },
+ {
+  "file": "regular-latin-ext.woff2",
+  "chars": 1124,
+  "glyphs": 1381,
+  "bytes": 116812
+ },
+ {
+  "file": "regular-vietnamese.woff2",
+  "chars": 87,
+  "glyphs": 109,
+  "bytes": 5576
+ },
+ {
+  "file": "regular-greek.woff2",
+  "chars": 121,
+  "glyphs": 157,
+  "bytes": 14940
+ },
+ {
+  "file": "regular-greek-ext.woff2",
+  "chars": 233,
+  "glyphs": 252,
+  "bytes": 10216
+ },
+ {
+  "file": "regular-cyrillic.woff2",
+  "chars": 101,
+  "glyphs": 118,
+  "bytes": 13984
+ },
+ {
+  "file": "regular-cyrillic-ext.woff2",
+  "chars": 343,
+  "glyphs": 385,
+  "bytes": 50428
+ },
+ {
+  "file": "regular-f010.woff2",
+  "chars": 70,
+  "glyphs": 84,
+  "bytes": 7616
+ },
+ {
+  "file": "regular-f024.woff2",
+  "chars": 73,
+  "glyphs": 86,
+  "bytes": 10144
+ },
+ {
+  "file": "regular-f025.woff2",
+  "chars": 71,
+  "glyphs": 72,
+  "bytes": 2464
+ },
+ {
+  "file": "regular-f026.woff2",
+  "chars": 95,
+  "glyphs": 96,
+  "bytes": 5428
+ },
+ {
+  "file": "regular-f027.woff2",
+  "chars": 8,
+  "glyphs": 9,
+  "bytes": 2036
+ },
+ {
+  "file": "regular-misc-00.woff2",
+  "chars": 405,
+  "glyphs": 446,
+  "bytes": 48124
+ },
+ {
+  "file": "regular-misc-01.woff2",
+  "chars": 403,
+  "glyphs": 418,
+  "bytes": 43020
+ },
+ {
+  "file": "regular-misc-02.woff2",
+  "chars": 45,
+  "glyphs": 49,
+  "bytes": 9940
+ }
+]
