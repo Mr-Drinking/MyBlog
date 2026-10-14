@@ -5,7 +5,7 @@
 不是 Safari 的问题，是字体在**所有浏览器**里都没有加载成功，只是你自己的 Windows / Android 设备看不出来。
 
 1. **字体文件不在服务器上。** `assets/css/style.css` 里的 `@font-face` 指向 `assets/dynamic/fonts/sarasauipropdigitssc/*.woff2`，线上这些地址全部返回 404。仓库历史显示：2025-06 到 2026-09 用思源宋体 / 思源黑体时，字体文件从来没进过仓库；2026-09-05 更纱字体传上去了，但 2026-10-09 的 Publii 同步又把它们删了，CSS 却还在引用。
-2. **就算文件在，浏览器也用不了。** 这两个 WOFF2 解压后分别是 37.9 MB 和 51.6 MB，超过了 WOFF2 解码 30 MB 的上限。在 Chromium 141 里实测：解压后 29.05 MB 的能加载，30.57 MB 起全部报 `OTS parsing error: Failed to convert WOFF 2.0 font to SFNT`。所以 9 月那一个月文件在线时，Chrome 同样用不了。
+2. **就算文件在，Chrome 也用不了。** 这两个 WOFF2 解压后分别是 37.9 MB 和 51.6 MB，超过了 Chrome 解码 WOFF2 的 30 MB 上限。在 Chromium 141 里实测：解压后 29.05 MB 的能加载，30.57 MB 起全部报 `OTS parsing error: Failed to convert WOFF 2.0 font to SFNT`。所以 9 月那一个月文件在线时，Chrome 同样用不了。Safari 的 WOFF2 解码由系统完成，代码不公开，这里没法实测它的上限；现在的分片每个解压后都不到 1 MB，不管哪个浏览器都不会碰到这个问题。
 3. **为什么你那边的 Chrome 看着正常。** 网页字体加载失败后会退回到 `sans-serif`，也就是系统字体。你的 Windows 用 Windows System Font Modifier 把微软雅黑 / Segoe UI 换成了更纱，Android 的系统字体也是更纱，退回的结果和本来想要的字体一模一样。苹果设备换不了系统字体，退回的就是苹方。其他访客在 Windows 上看到的是微软雅黑；在普通 Android 上看到的是思源黑体（Noto Sans CJK），它就是更纱汉字部分的来源，所以几乎看不出差别。
 4. 「标点压缩」靠的是字体里的 `chws` / `halt` 特性，字体没加载，这个功能自然也没有。
 
@@ -13,7 +13,7 @@
 
 用 `split_webfont.py` 把字体切成按 `unicode-range` 按需加载的小文件（Google Fonts 提供中文字体也是这么做的）：
 
-- 每个文件解压后都不到 1 MB，离 30 MB 上限很远；最大的文件 303 KB，绝大多数在 40–70 KB。
+- 每个文件解压后都不到 1 MB（最大的是 808 KB），离 30 MB 上限很远；WOFF2 文件最大 303 KB，中位数 58 KB。
 - 浏览器只下载当前页面用到的字所在的分片：本站文章页正体字体的下载量中位数约 1.45 MB，最长的文章约 3.9 MB。原先每个页面都要 preload 两个合计 32 MB 的文件。
 - 汉字按 Google Fonts 的使用频率分组，常用字集中在少数几个分片里，跨页面可以复用缓存。
 - 所有中文标点和基本拉丁字符放在同一个 `base` 分片里，并且这条规则写在 CSS 的最后。这两点都是为了让标点挤压（`chws`）在 Chrome 里与原字体完全一致；实测拆开或写在前面都会出错。
